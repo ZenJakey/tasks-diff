@@ -1,3 +1,7 @@
+Agility
+Showing 27 of 44 tasks (17 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Complete the Gnome Stronghold Agility Course 	Complete a lap of the Gnome Stronghold Agility Course. 	Agility 1 Agility
 Obtain a Mark of Grace 	Obtain a Mark of Grace from any Rooftop Agility Course. 	Agility 10 Agility
 Complete a Rooftop Agility Course 	Complete a lap of any Rooftop Agility Course. 	Agility 10 Agility
@@ -6,30 +10,111 @@ Receive an Agility Arena Ticket 	Receive an Agility Arena Ticket from the Brimha
 Complete the Al Kharid Agility Course 	Complete a lap of the Al Kharid Rooftop Agility Course. 	Agility 20 Agility
 Complete 50 Laps of a Rooftop Agility Course 	Complete 50 laps of any Rooftop Agility Course. 	Agility 10 Agility 	Does not need to be 50 laps on the same course.
 Complete 30 Laps of the Draynor Agility Course 	Complete 30 laps of the Draynor Rooftop Agility Course. 	Agility 10 Agility
-Cross a Trap in Isafdar 	Successfully cross any kind of trap in Isafdar.
+Complete the Penguin Agility Course 	Complete a lap of the Penguin Agility Course. 	Agility 30 Agility 	Requires completion of Quest points Cold War
 Buy a Snapdragon From Pirate Jackie the Fruit 	Buy a Snapdragon From Pirate Jackie the Fruit in Brimhaven.
 10 Agility arena tickets
+Complete the Barbarian Outpost Agility Course 	Complete a lap of the Barbarian Outpost Agility Course. 	Agility 35 Agility 	Requires Quest points Alfred Grimhand's Barcrawl completed.
 Complete the Falador Agility Course 	Complete a lap of the Falador Rooftop Course. 	Agility 50 Agility
 Turn in a Pyramid Top to Simon Templeton 	Turn in a Pyramid top to Simon Templeton at the Agility Pyramid. 	Agility 30 Agility
 Complete the Canifis Agility Course 	Complete a lap of the Canifis Rooftop Agility Course. 	Agility 40 Agility 	Requires Quest points Priest in Peril completed.
+Complete the Werewolf Agility Course 	Complete a lap of the Werewolf Agility Course. 	Agility 60 Agility 	Ring of Charos (can be pickpocketed from Dr Fenkenstrain in the Harmony Island windmill basement)
 Complete the Wilderness Agility Course 	Complete a lap of the Wilderness Agility Course. 	Agility 52 Agility
 Complete 250 Laps of a Rooftop Agility Course 	Complete 250 laps of any Rooftop Agility Course. 	Agility 10 Agility 	Does not need to be 250 laps on the same course.
 Take the Advanced Shortcut to the Cosmic Altar 	Use the Advanced Narrow Walkway Agility Shortcut near the Cosmic Altar. 	Agility 66 Agility 	Completed Quest points Lost City
 Complete the Prifddinas Agility Course 	Complete a lap of the Prifddinas Agility Course. 	Agility 75 Agility
 Complete the Prifddinas Agility Course in 1:10 	Complete a lap of the Prifddinas Agility Course in 1:10 or less. 	Agility 75 Agility
+Complete the Rellekka Agility Course 	Complete a lap of the Rellekka Rooftop Course. 	Agility 80 Agility
+Take a Shortcut Across the Shilo Village River 	Use the Stepping Stones Agility Shortcut in Shilo Village . 	Agility 77 Agility 	Requires Medium Karamja Diary
 Complete the Seers' Village Agility Course 	Complete a lap of the Seers' Village Rooftop Course. 	Agility 60 Agility
+Equip a Karamja Monkey Backpack 	Equip a Karamja monkey backpack. 	Agility 48 Agility 	100 laps around the Ape Atoll Agility Course.
+Equip a Maniacal Monkey Backpack 	Equip a maniacal monkey backpack. 	Agility 48 Agility 	500 laps around the Ape Atoll Agility Course.
+Equip a Full Graceful Outfit 	Equip a full set of graceful outfit. 	Agility 10 Agility
+Complete Floor 1 of the Hallowed Sepulchre 	Complete floor 1 of the Hallowed Sepulchre in Darkmeyer. 	Agility 52 Agility 	Completed Quest points Sins of the Father
+Complete Floor 2 of the Hallowed Sepulchre 	Complete floor 2 of the Hallowed Sepulchre in Darkmeyer. 	Agility 62 Agility 	Completed Quest points Sins of the Father
+Complete Floor 3 of the Hallowed Sepulchre 	Complete floor 3 of the Hallowed Sepulchre in Darkmeyer. 	Agility 72 Agility 	Completed Quest points Sins of the Father
+Complete Floor 4 of the Hallowed Sepulchre 	Complete floor 4 of the Hallowed Sepulchre in Darkmeyer. 	Agility 82 Agility 	Completed Quest points Sins of the Father
+Complete the Hallowed Sepulchre in 8:00 	Complete the Hallowed Sepulchre in Darkmeyer in 8:00 or less. 	Agility 92 Agility 	Completed Quest points Sins of the Father
+Purchase a Reward From the Hallowed Sepulchre 	Purchase a reward from the Hallowed Sepulchre. 	Agility 52 Agility 	Completed Quest points Sins of the Father
+Obtain Every Hallowed Tool 	Obtain all four Hallowed Tools from the Hallowed Sepulchre. 	Agility 52 Agility 	Requires hallowed grapple, focus, symbol and hammer
+Reach Level 99 Agility 	Reach level 99 in your Agility skill. 	Agility 99 Agility
+Obtain 25 Million Agility XP 	Obtain 25 million experience in your Agility skill. 	Agility 99 Agility
 Receive 60 Agility Arena Tickets With No Mistakes 	Receive 60 Agility Arena Tickets without missing any pillars. 	Agility 40 Agility
+Complete the Ardougne Agility Course 	Complete a lap of the Ardougne Rooftop Course. 	Agility 90 Agility
+Equip a Kruk Jr. Monkey Backpack 	Equip a kruk jr. monkey backpack. 	Agility 48 Agility 	1,500 laps around the Ape Atoll Agility Course.
+Complete Floor 5 of the Hallowed Sepulchre 	Complete floor 5 of the Hallowed Sepulchre in Darkmeyer. 	Agility 92 Agility
+Complete the Hallowed Sepulchre in 6:30 	Complete the Hallowed Sepulchre in Darkmeyer in 6:30 or less. 	Agility 92 Agility
+Equip a Ring of Endurance 	Equip a Ring of Endurance. 	Agility 92 Agility
+Equip a Prince Awowogei Monkey Back 	Equip a Prince Awowogei Monkey Back. 	Agility 48 Agility 	2,000 laps around the Ape Atoll Agility Course.
+Attack
+Showing 12 of 16 tasks (4 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Equip a Mithril Weapon 	Equip any Mithril weapon. 	Attack 20 Attack
 Equip an Adamant Weapon 	Equip any Adamant weapon. 	Attack 30 Attack
 Equip a Rune Weapon 	Equip any Rune weapon. 	Attack 40 Attack
+Equip a Brine Sabre 	Equip a brine sabre. 	Attack 40 Attack 	Requires Slayer 47 Slayer to kill brine rats and Quest points Olaf's Quest
 Equip a Dragon Weapon 	Equip any Dragon weapon. 	Attack 60 Attack
+Equip a Hill Giant Club 	Equip a Hill Giant Club. 	Attack 40 Attack
+Equip a Toktz-Xil-Ak 	Equip a Toktz-Xil-Ak. 	Attack 60 Attack
+Equip a Toktz-Xil-Ek 	Equip a Toktz-Xil-Ek. 	Attack 60 Attack
+Equip a Dragon 2H Sword 	Equip a Dragon 2h sword in the Kharidian Desert. 	Attack 60 Attack
+Equip a Dragon 2H Sword in the Wilderness 	Equip a dragon 2h sword in the Wilderness. 	Attack 60 Attack
+Equip a Sarachnis Cudgel 	Equip a Sarachnis Cudgel. 	Attack 65 Attack 	Dropped by Sarachnis
+Reach Level 99 Attack 	Reach level 99 in your Attack skill. 	Attack 99 Attack
+Obtain 25 Million Attack XP 	Obtain 25 million experience in your Attack skill. 	Attack 99 Attack
+Equip an Abyssal Whip 	Equip an Abyssal Whip. 	Attack 70 Attack, Slayer 85 Slayer
+Equip a Viggora's Chainmace 	Equip a Viggora's Chainmace. 	Attack 60 Attack
+Equip a Ghrazi Rapier 	Equip a Ghrazi rapier. 	Attack 75 Attack
+Construction
+Showing 14 of 20 tasks (6 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
+Turn a Log Into a Plank 	Use a Sawmill to turn a Log into a Plank.
+1 Log, 100
 Purchase a Player Owned House 	Purchase a player-owned house.
 1,000 or complete Daddy's Home
+Build a Room in Your Player Owned House 	Build a room in your player-owned house.
+At least 1,000
+Enter your Player Owned House 	Enter your player-owned house.
+Move Your House to Taverley 	Move your player-owned house to Taverley. 	Construction 10 Construction 	5,000
+Build a Mahogany Portal 	Build a mahogany portal in a Portal Chamber in your Player Owned House. 	Construction 65 Construction
+Build an Oak Larder 	Build an oak larder in a Kitchen in your Player Owned House. 	Construction 33 Construction
+Fill a Medium S.T.A.S.H. Unit 	Build a Medium S.T.A.S.H. unit and fill it with the relevant items. 	Construction 42 Construction
+Move Your House to Prifddinas 	Move your player-owned house to Prifddinas. 	Construction 70 Construction 	50,000
+Move Your House to Rellekka 	Move your player-owned house to Rellekka. 	Construction 30 Construction 	10,000
+Move Your House to Yanille 	Move your player-owned house to Yanille. 	Construction 50 Construction 	25,000
+Move Your House to Pollnivneach 	Move your player-owned house to Pollnivneach. 	Construction 20 Construction 	7,500
+Fill a Hard S.T.A.S.H. Unit 	Build a Hard S.T.A.S.H. unit and fill it with the relevant items. 	Construction 55 Construction
+Build an Achievement Gallery 	Build an Achievement Gallery in your player-owned house. 	Construction 80 Construction 	200,000
+Build a Gilded Altar 	Build a gilded altar in a Chapel in your player-owned house. 	Construction 75 Construction
+Reach Level 99 Construction 	Reach level 99 in your Construction skill. 	Construction 99 Construction
+Obtain 25 Million Construction XP 	Obtain 25 million experience in your Construction skill. 	Construction 99 Construction
+Build a Gilded Portal Nexus 	Build a gilded portal nexus in a Portal Nexus in your player-owned house. 	Construction 82 Construction
+Build an Obelisk 	Build an obelisk in your Player Owned House. 	Construction 80 Construction
+Build a Demonic Throne 	Build a demonic throne in a Throne Room in your player-owned house. 	Construction 99 Construction
+Cooking
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Cook a Shrimp 	Cook a Raw Shrimp.
 Burn Some Food 	Burn any kind of food while trying to cook it.
 Use the Range in Lumbridge Castle 	Use the Range in Lumbridge Castle to cook some food.
 Quest points Cook's assistant
+Successfully Cook 5 Pieces of Food 	Cook 5 pieces of food in a row without burning them.
+Serve 20 Stews in the Mess Hall 	Make and serve 20 stews in the Mess Hall in Hosidius.
+Note: This requires at least 30% appreciation. 	Cooking 25 Cooking 	45% Hosidius favour
+Ferment 100 Jugs of Wine 	Successfully ferment 100 jugs of wine. 	Cooking 35 Cooking
+Cook 100 Lobsters 	Cook 100 Raw Lobsters. 	Cooking 40 Cooking
+Make a Pineapple Pizza 	Make a Pineapple Pizza. 	Cooking 65 Cooking
+Enter the Cooks' Guild 	Enter the Cooks' Guild west of Varrock. 	Cooking 32 Cooking 	Chef's hat equipped
+Note: This requires at least 30% appreciation. 	Cooking 65 Cooking 	45% Hosidius
+Cook 100 Sharks 	Cook 100 Raw Sharks. 	Cooking 80 Cooking
 Cook 100 Karambwans 	Cook 100 Karambwans. 	Cooking 30 Cooking
+Reach Level 99 Cooking 	Reach level 99 in your Cooking skill. 	Cooking 99 Cooking
+Obtain 25 Million Cooking XP 	Obtain 25 million experience in your Cooking skill. 	Cooking 99 Cooking
+Cook a Dark Crab 	Cook a Dark Crab. 	Cooking 90 Cooking
+Crafting
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Spin a Ball of Wool 	Use a Spinning Wheel to spin a Ball of Wool.
 Cut a Sapphire 	Cut a Sapphire. 	Crafting 20 Crafting
 Craft a Leather Body 	Craft a Leather Body. 	Crafting 14 Crafting
@@ -38,95 +123,330 @@ Craft 100 Unpowered Orbs 	Craft 100 Unpowered Orbs. 	Crafting 46 Crafting
 Craft an Emerald Ring 	Craft an Emerald Ring. 	Crafting 27 Crafting
 Craft a Ruby Amulet 	Craft a Ruby Amulet. 	Crafting 50 Crafting
 Enter the Crafting Guild 	Enter the Crafting Guild. 	Crafting 40 Crafting
+Craft a Dragonstone Amulet 	Craft a dragonstone amulet. 	Crafting 80 Crafting
+Craft 30 Blue Dragonhide Bodies 	Craft 30 Blue Dragonhide Bodies. 	Crafting 71 Crafting
+Craft an Air Battlestaff in the Wilderness 	Craft an air battlestaff in the Wilderness. 	Crafting 66 Crafting
+Reach Level 99 Crafting 	Reach level 99 in your Crafting skill. 	Crafting 99 Crafting
+Obtain 25 Million Crafting XP 	Obtain 25 million experience in your Crafting skill. 	Crafting 99 Crafting
+Craft an Onyx Amulet 	Craft an Onyx Amulet. 	Crafting 90 Crafting
+Smithing 70 Smithing 	Completed Quest points Song of the Elves
+Defence
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Equip either a Steel Platebody, some Steel Platelegs or a Steel Full Helm 	Equip either a steel platebody, some steel platelegs or a steel full helm. 	Defence 5 Defence
 Equip either a Black Platebody, some Black Platelegs or a Black Full Helm 	Equip either a black platebody, some black platelegs or a black full helm. 	Defence 10 Defence
 Equip a Full Mithril Set 	Equip a mithril platebody, a mithril full helm and either some mithril platelegs or a mithril plateskirt. 	Defence 20 Defence
 Equip a Willow Shield 	Equip a willow shield. 	Defence 30 Defence 	Fletching 42 Fletching
 Equip Tier 5 Shayzien Armour 	Equip a full set of tier 5 Shayzien armour. 	Defence 20 Defence 	100% Shayzien favour & previous armour tiers
 Equip a Full Adamant Set 	Equip an adamant platebody, an adamant full helm and either some adamant platelegs or an adamant plateskirt. 	Defence 30 Defence
+Equip a Full Rune Set 	Equip a rune platebody, a rune full helm and either some rune platelegs or a rune plateskirt. 	Defence 40 Defence 	Completion of Dragon Slayer I (to wear the rune platebody)
+Equip a Full God Rune Set 	Equip a full set of God Rune armour (helmet, body and legs) with all pieces aligned to the same God. 	Defence 40 Defence
+Defence 40 Defence
+Equip a Full Obsidian Armour Set 	Equip a full set of Obsidian armour. 	Defence 60 Defence
+Equip a Toktz-Ket-Xil 	Equip a Toktz-Ket-Xil. 	Defence 60 Defence
+Equip Some Dragon Platelegs or a Dragon Plateskirt 	Equip either some Dragon Platelegs or a Dragon Plateskirt. 	Defence 60 Defence
+Equip a Pair of Dragon Boots 	Equip a pair of dragon boots. 	Slayer 83 Slayer
+Reach Level 99 Defence 	Reach level 99 in your Defence skill. 	Defence 99 Defence
+Obtain 25 Million Defence XP 	Obtain 25 million experience in your Defence skill. 	Defence 99 Defence
+Equip a Full Dragon Set 	Equip a Dragon platebody, a Dragon full helm and either some Dragon platelegs or a Dragon plateskirt. 	Defence 60 Defence
+Equip a Piece of the Justiciar Set 	Equip any piece of the Justiciar armour set. 	Defence 75 Defence
+Equip a Full Justiciar Set 	Equip a full set of Justiciar armour. 	Defence 75 Defence
+Farming
+Showing 31 of 40 tasks (9 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Rake a Farming Patch 	Rake any farming patch
 Plant Seeds in an Allotment Patch 	Plant some seeds in an allotment patch.
+Complete 1 Farming Contract 	Complete a farming contract for Guildmaster Jane in the farming guild. 	Farming 45 Farming 	60% Hosidius favour
+Complete 25 Farming Contracts 	Complete 25 farming contracts for Guildmaster Jane in the farming guild. 	Farming 45 Farming 	60% Hosidius favour
+Complete 50 Farming Contracts 	Complete 50 farming contracts for Guildmaster Jane in the farming guild. 	Farming 45 Farming 	60% Hosidius favour
+Complete 75 Farming Contracts 	Complete 75 farming contracts for Guildmaster Jane in the farming guild. 	Farming 45 Farming 	60% Hosidius favour
+Complete 100 Farming Contracts 	Complete 100 farming contracts for Guildmaster Jane in the farming guild. 	Farming 45 Farming 	60% Hosidius favour
 Protect Your Crops 	Pay a farmer to protect any of your crops.
+Complete 200 Farming Contracts 	Complete 200 farming contracts for Guildmaster Jane in the farming guild. 	Farming 45 Farming 	60% Hosidius favour
+Complete 300 Farming Contracts 	Complete 300 farming contracts for Guildmaster Jane in the farming guild. 	Farming 45 Farming 	60% Hosidius favour
+Complete 400 Farming Contracts 	Complete 400 farming contracts for Guildmaster Jane in the farming guild. 	Farming 45 Farming 	60% Hosidius favour
+Complete 500 Farming Contracts 	Complete 500 farming contracts for Guildmaster Jane in the farming guild. 	Farming 45 Farming 	60% Hosidius favour
+Plant 100 Golovanova Seeds 	Plant 100 Golovanova seeds in the Tithe Farm minigame. 	Farming 34 Farming 	100% Hosidius favour
+Enter the Farming Guild 	Enter the Farming Guild in the Kebos Lowlands. 	Farming 45 Farming 	60% Hosidius favour
+Harvest an Irit Leaf 	Harvest an Irit Leaf from any Herb Patch. 	Farming 44 Farming
+Fill a Bucket With Supercompost 	Fill a Bucket with Supercompost from a Compost Bin.
+Check a grown Fruit Tree 	Check the health of any fruit tree you've grown. 	Farming 27 Farming
+Check a grown Papaya Tree in Lletya 	Check the health of a papaya tree you've grown in Lletya. 	Farming 57 Farming
+Check a grown Papaya Tree in the Gnome Stronghold 	Check the health of a papaya tree you've grown in the Tree Gnome Stronghold. 	Farming 57 Farming
+Harvest Any Herb at the Troll Stronghold 	Harvest any herb you've grown at the Troll Stronghold . 	Farming 9 Farming 	Quest points My Arm's Big Adventure
+Plant 100 Bologano Seeds 	Plant 100 Bologano seeds in the Tithe Farm minigame. 	Farming 54 Farming 	100% Hosidius favour
+Enter the Farming Guild's Mid Tier 	Enter the mid tier of the Farming Guild in the Kebos Lowlands. 	Farming 65 Farming 	60% Hosidius favour
+Equip the Farmer's Outfit 	Equip a full set of the farmer's outfit, purchased from the Tithe Farm minigame. 	Farming 34 Farming 	100% Hosidius favour
+Check a grown Palm Tree 	Check the health of a Palm tree you've grown. 	Farming 68 Farming
+Dig Up Some Magic Roots 	Dig up some Magic Roots from a Magic Tree you've grown. 	Farming 75 Farming, Woodcutting 75 Woodcutting
+Check a grown Magic Tree in Lumbridge 	Check the health of a Magic Tree you've grown in Lumbridge. 	Farming 75 Farming
+Harvest Some Sweetcorn in Prifddinas 	Harvest some sweetcorn from the Prifddinas Allotment Patch. 	Farming 20 Farming
+Check a grown Crystal Tree 	Check the health of a Crystal tree you've grown in Prifddinas. 	Farming 74 Farming
+Harvest a Snapdragon in Weiss 	Harvest a snapdragon you've grown in Weiss. 	Farming 62 Farming
+Check a grown Calquat Tree 	Check the health of a Calquat Tree you've grown on Karamja. 	Farming 72 Farming
+Check a grown Cactus 	Check the health of a Cactus you've grown in Al Kharid or the Farming Guild. 	Farming 55 Farming 	Cactus seed or Potato cactus seed
+Check a grown Potato Cactus 	Check the health of a Potato Cactus you've grown in Al Kharid or the Farming Guild. 	Farming 64 Farming 	Potato cactus seed
+Plant 100 Logavano Seeds 	Plant 100 Logavano seeds in the Tithe Farm minigame. 	Farming 74 Farming 	100% Hosidius favour
+Enter the Farming Guild's High Tier 	Enter the high tier of the Farming Guild in the Kebos Lowlands. 	Farming 85 Farming 	60% Hosidius favour
+Check a grown Redwood Tree 	Check the health of a Redwood Tree after growing one in the Farming Guild. 	Farming 90 Farming
+Reach Level 99 Farming 	Reach level 99 in your Farming skill. 	Farming 99 Farming
+Obtain 25 Million Farming XP 	Obtain 25 million experience in your Farming skill. 	Farming 99 Farming
+Farming 83 Farming and Construction 75 Construction
+Check a grown Dragonfruit Tree in Catherby 	Check the health of a dragonfruit tree you've grown in Catherby. 	Farming 81 Farming
+Firemaking
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Burn Some Normal Logs 	Burn some Normal Logs.
 Burn Some Oak Logs 	Burn some Oak Logs. 	Firemaking 15 Firemaking
 Light a Torch 	Light a Torch.
+1 Wintertodt Kill 	Help the pyromancers subdue the Wintertodt. 	Firemaking 50 Firemaking
+25 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 25 times. 	Firemaking 50 Firemaking
+50 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 50 times. 	Firemaking 50 Firemaking
+75 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 75 times. 	Firemaking 50 Firemaking
 Burn 100 Willow Logs 	Burn 100 Willow Logs. 	Firemaking 30 Firemaking
+Equip a Harpie Bug Lantern 	Equip a Bug lantern. 	Firemaking 33 Firemaking, Slayer 33 Slayer
 Light a Bullseye Lantern 	Light a Bullseye Lantern. 	Firemaking 49 Firemaking
+100 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 100 times. 	Firemaking 50 Firemaking
+150 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 150 times. 	Firemaking 50 Firemaking
+200 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 200 times. 	Firemaking 50 Firemaking
+250 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 250 times. 	Firemaking 50 Firemaking
+Equip the Pyromancer's Garb 	Equip a full set of pyromancer's garb, rewarded from the Wintertodt. 	Firemaking 50 Firemaking
 Burn 100 Yew Logs 	Burn 100 Yew Logs. 	Firemaking 60 Firemaking
 Burn Some Magic Logs 	Burn some Magic Logs. 	Firemaking 75 Firemaking
+500 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 500 times. 	Firemaking 50 Firemaking
+750 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 750 times. 	Firemaking 50 Firemaking
+1000 Wintertodt Kills 	Help the pyromancers subdue the Wintertodt 1000 times. 	Firemaking 50 Firemaking
+Reach Level 99 Firemaking 	Reach level 99 in your Firemaking skill. 	Firemaking 99 Firemaking
+Obtain 25 Million Firemaking XP 	Obtain 25 million experience in your Firemaking skill. 	Firemaking 99 Firemaking
+Fishing
+Showing 22 of 29 tasks (7 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Catch a Shrimp 	Catch a Raw Shrimp whilst fishing.
 Catch a Herring 	Catch a Raw Herring whilst fishing. 	Fishing 10 Fishing
 Catch an Anchovy 	Catch a Raw Anchovy whilst fishing. 	Fishing 15 Fishing
 Catch a Karambwanji 	Catch a Karambwanji on Karamja. 	Fishing 5 Fishing
-Complete a Fishing Trawler Game 	Complete a Fishing Trawler game at Port Khazard.
 Catch 100 Lobsters 	Catch 100 Raw Lobsters whilst fishing. 	Fishing 40 Fishing
 Catch 50 Swordfish 	Catch 50 Raw Swordfish whilst fishing. 	Fishing 50 Fishing
 Catch 50 Salmon 	Catch 50 Raw Salmon whilst fishing. 	Fishing 30 Fishing
 Catch a Salmon on Karamja 	Catch a Salmon on Karamja. 	Fishing 30 Fishing 	Completion of Quest points Shilo Village
 Enter the Fishing Guild 	Enter the Fishing Guild. 	Fishing 68 Fishing
+1 Tempoross Kill 	Help the Spirit Anglers subdue the Tempoross. 	Fishing 35 Fishing
+25 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 25 times. 	Fishing 35 Fishing
+50 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 50 times. 	Fishing 35 Fishing
+75 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 75 times. 	Fishing 35 Fishing
+Catch 100 Shark 	Catch 100 raw shark whilst fishing. 	Fishing 76 Fishing
 Catch 100 Karambwans 	Catch 100 Karambwans on Karamja. 	Fishing 65 Fishing 	Completion of Quest points Tai Bwo Wannai Trio
+Catch a Monkfish 	Catch a monkfish at the Piscatoris Fishing Colony. 	Fishing 62 Fishing 	Completion of Quest points Swan Song
+Equip a Full Angler's Outfit 	Equip a full set of angler gear. 	Fishing 34 Fishing
+Catch 100 Dark Crabs 	Catch 100 Dark Crabs in the Wilderness. 	Fishing 85 Fishing
+100 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 100 times. 	Fishing 35 Fishing
+150 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 150 times. 	Fishing 35 Fishing
+200 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 200 times. 	Fishing 35 Fishing
+250 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 250 times. 	Fishing 35 Fishing
+Reach Level 99 Fishing 	Reach level 99 in your Fishing skill. 	Fishing 99 Fishing
+Obtain 25 Million Fishing XP 	Obtain 25 million experience in your Fishing skill. 	Fishing 99 Fishing
+Dissect 50 Sacred Eels 	Dissect 50 Sacred eels. 	Fishing 87 Fishing, Cooking 72 Cooking 	Partial completion of Quest points Regicide ; must speak with Priestess Zul-Harcinqa first
+500 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 500 times. 	Fishing 35 Fishing
+750 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 750 times. 	Fishing 35 Fishing
+1000 Tempoross Kills 	Help the Spirit Anglers subdue the Tempoross 1000 times. 	Fishing 35 Fishing
+Fletching
+Showing 4 of 11 tasks (7 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Fletch Some Arrow Shafts 	Fletch some arrow shafts.
 Fletch an Oak Shortbow 	Fletch an Oak Shortbow. 	Fletching 20 Fletching
 Fletch 150 Iron Arrows 	Fletch 150 iron arrows. 	Fletching 15 Fletching
 Fletch a Willow Shortbow 	Fletch a willow shortbow. 	Fletching 35 Fletching
+Create a Mithril Grapple 	Create a mithril grapple. 	Fletching 59 Fletching 	Smithing 59 Smithing to make Mith grapple tip
+Fletch some Broad Arrows or Bolts 	Fletch either some Broad Arrows or some Broad Bolts. 	Fletching 52 Fletching 	Broader fletching (300 Slayer reward points)
 Fletch 50 Maple Longbow (u) in Kandarin 	Fletch 50 maple longbow (u) in Kandarin. 	Fletching 55 Fletching
+Fletch a Magic Shortbow 	Fletch a Magic Shortbow. 	Fletching 80 Fletching
+Fletch a Rune Crossbow 	Fletch a Rune Crossbow. 	Fletching 69 Fletching
+Reach Level 99 Fletching 	Reach level 99 in your Fletching skill. 	Fletching 99 Fletching
+Obtain 25 Million Fletching XP 	Obtain 25 million experience in your Fletching skill. 	Fletching 99 Fletching
+Herblore
+Name 	Task 	Skill(s) needed 	
+Other requirements
+Clean a Grimy Guam 	Clean a Grimy Guam. 	Herblore 3 Herblore
+Make an Attack Potion 	Make an Attack Potion. 	Herblore 3 Herblore
+Drink a Strength Potion 	Drink a Strength Potion.
+Make 30 Prayer Potions 	Make 30 Prayer Potions. 	Herblore 38 Herblore
+Clean a Grimy Avantoe 	Clean a Grimy Avantoe. 	Herblore 48 Herblore
+Make a 4 dose potion 	Make any 4 dose potion using an amulet of chemistry 	Crafting 34 Crafting, Magic 27 Magic
+Make a Combat Potion 	Make a Combat Potion. 	Herblore 36 Herblore 	A pestle and mortar or 50 Coins for Wesley
+Make a Saradomin Brew 	Make a Saradomin Brew. 	Herblore 81 Herblore
+Clean 100 Grimy Dwarf Weed 	Clean 100 Grimy Dwarf Weed. 	Herblore 70 Herblore
+Make 20 Ranging Potions 	Make 20 ranging potions. 	Herblore 72 Herblore
+Make 20 Stamina Potions 	Make 20 stamina potions. 	Herblore 77 Herblore 	Must be 3-dose or 4-dose potions.[1]
+Make 20 Magic Potions 	Make 20 Magic Potions. 	Herblore 76 Herblore
+Reach Level 99 Herblore 	Reach level 99 in your Herblore skill. 	Herblore 99 Herblore
+Obtain 25 Million Herblore XP 	Obtain 25 million experience in your Herblore skill. 	Herblore 99 Herblore
+Make a Super Combat Potion 	Make a Super Combat Potion. 	Herblore 90 Herblore
+Make an Extended Antifire Potion 	Make an extended antifire potion. 	Herblore 84 Herblore
+Hitpoints
+Name 	Task 	Skill(s) needed 	
+Other requirements
+Reach Level 99 Hitpoints 	Reach level 99 in your Hitpoints skill. 	Hitpoints 99 Hitpoints
+Obtain 25 Million Hitpoints XP 	Obtain 25 million experience in your Hitpoints skill. 	Hitpoints 99 Hitpoints
+Hunter
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Catch a Baby Impling 	Catch a Baby Impling. 	Hunter 17 Hunter
 Snare a Bird 	Catch any bird with a Bird Snare.
 Catch a Crimson Swift in the Feldip Hills 	Catch a crimson swift in the Feldip Hills.
 Equip full Graahk, Larupia or Kyatt 	Equip a full set of Graahk, Larupia or Kyatt attire. 	Hunter 31 Hunter 	Bring the chosen creature's furs to the Fancy Clothes Store.
 Catch a Swamp Lizard or Salamander 	Catch either a Swamp Lizard or any kind of Salamander. 	Hunter 29 Hunter
 Catch a Butterfly 	Catch any butterfly. 	Hunter 15 Hunter
+Dismantle 20 Filled Bird Houses 	Dismantle 20 filled bird houses on Fossil Island. 	Hunter 5 Hunter, Crafting 5 Crafting, Construction 25 Construction 	Quest points Bone Voyage
+Setup a Yew Bird House 	Setup a yew bird house on Fossil Island. 	Hunter 59 Hunter, Crafting 60 Crafting, Construction 25 Construction 	Quest points Bone Voyage
 Catch 50 Implings in Puro-Puro 	Catch 50 Implings in Puro-Puro. 	Hunter 17 Hunter
 Catch a Snowy Knight 	Catch a snowy knight. 	Hunter 35 Hunter
 Trap a Spined Larupia in the Feldip Hills 	Trap a spined larupia in the Feldip Hills. 	Hunter 31 Hunter
+Equip a Spottier Cape 	Equip a spottier cape. 	Hunter 66 Hunter 	Hunter 69 Hunter for catching the dashing kebbits.
 Catch a Red Salamander 	Catch a red salamander outside the Ourania Altar. 	Hunter 59 Hunter
 Catch 30 Orange Salamanders 	Catch 30 Orange Salamanders at Uzer. 	Hunter 47 Hunter 	A rope and small fishing net
 Catch a Swamp Lizard in Morytania 	Catch a Swamp Lizard in Morytania. 	Hunter 29 Hunter
 Catch a Black Salamander 	Catch a Black Salamander in the Wilderness. 	Hunter 67 Hunter
+Catch a Dragon Impling 	Catch a Dragon Impling. 	Hunter 83 Hunter
+Setup a Magic Bird House 	Setup a Magic Bird House on Fossil Island. 	Hunter 74 Hunter, Crafting 75 Crafting, Construction 25 Construction 	Quest points Bone Voyage
 Catch 200 Implings in Puro-Puro 	Catch 200 Implings in Puro-Puro. 	Hunter 17 Hunter
 Catch a Crystal Impling 	Catch a Crystal impling in Prifddinas. 	Hunter 80 Hunter
+Trap a Sabre-Toothed Kyatt 	Trap a sabre-toothed kyatt. 	Hunter 55 Hunter
 Catch 50 Red Chinchompas in Kandarin 	Catch 50 red chinchompas in Kandarin 	Hunter 63 Hunter 	Requires Quest points Eagles' Peak completed
 Catch a Black Chinchompa 	Catch a Black Chinchompa in the Wilderness. 	Hunter 73 Hunter
+Reach Level 99 Hunter 	Reach level 99 in your Hunter skill. 	Hunter 99 Hunter
+Obtain 25 Million Hunter XP 	Obtain 25 million experience in your Hunter skill. 	Hunter 99 Hunter
+Catch a Lucky Impling Bare-Handed 	Catch a Lucky Impling bare-handed. 	Hunter 99 Hunter
+Catch a Herbiboar 100 Times 	Catch a Herbiboar on Fossil Island 100 times. 	Hunter 80 Hunter 	Quest points Bone Voyage
+Catch a Herbiboar 250 Times 	Catch a Herbiboar on Fossil Island 250 times. 	Hunter 80 Hunter 	Quest points Bone Voyage
+Catch a Herbiboar 500 Times 	Catch a Herbiboar on Fossil Island 500 times. 	Hunter 80 Hunter 	Quest points Bone Voyage
+Receive a Torstol From a Herbiboar 	Receive a Torstol From a Herbiboar on Fossil Island. 	Hunter 80 Hunter, Herblore 77 Herblore 	Quest points Bone Voyage
+Equip an Elven Signet 	Equip an Elven signet. 	Hunter 80 Hunter
 Equip 250 Black Chinchompas 	Equip a stack of at least 250 Black Chinchompas. 	Hunter 73 Hunter, Ranged 65 Ranged
 Equip 500 Black Chinchompas 	Equip a stack of at least 500 Black Chinchompas. 	Hunter 73 Hunter, Ranged 65 Ranged
 Equip 1000 Black Chinchompas 	Equip a stack of at least 1000 Black Chinchompas. 	Hunter 73 Hunter, Ranged 65 Ranged
+Magic
+Showing 26 of 49 tasks (23 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Cast Home Teleport 	Cast the Home Teleport spell.
 Equip a Wizard Robe and Hat 	Equip any wizard robe along with any wizard hat.
 Equip an Elemental Staff 	Equip a basic elemental staff.
 Equip a Piece of a Mystic Set 	Equip any piece of any Mystic robe set. 	Magic 40 Magic, Defence 20 Defence
 Teleport Using Law Runes 	Cast any teleport spell that uses Law Runes. 	Magic 25 Magic
+Equip an Elemental Battlestaff or Mystic Staff 	Equip either an elemental battlestaff or an elemental mystic staff. 	Magic 30 Magic, Attack 30
 Cast a Blast Spell 	Cast any blast spell. 	Magic 41 Magic
 Cast High Level Alchemy 	Cast the High Level Alchemy spell. 	Magic 55 Magic
 Cast Ice Rush 	Cast the Ice Rush spell. 	Magic 58 Magic 	Completion of Quest points Desert Treasure
 Equip a God Cape 	Equip either a Saradomin cape, a Guthix cape or Zamorak cape. 	Magic 60 Magic
+Cast Saradomin Strike 	Cast the Saradomin Strike spell outside of the Mage Arena. 	Magic 60 Magic 	Completion of Quest points The Mage Arena miniquest
+Cast Claws of Guthix 	Cast the Claws of Guthix spell outside of the Mage Arena. 	Magic 60 Magic 	Completion of Quest points The Mage Arena miniquest
+Cast Flames of Zamorak 	Cast the Flames of Zamorak spell outside of the Mage Arena. 	Magic 60 Magic 	Completion of Quest points The Mage Arena miniquest
 Cast Resurrect Superior Ghost 	Resurrect a ghost by using the Resurrect Superior Ghost spell. 	Magic 57 Magic 	Requires completion of Quest points A Kingdom Divided
 Inferior Demonbane Demon Kill 	Kill a demon using the Inferior Demonbane spell. 	Magic 44 Magic
+Cast Resurrect Crops 	Cast the spell Resurrect Crops from the Arceuus spellbook. 	Magic 78 Magic 	60% Arceuus favour
+Equip a Dust Battlestaff 	Obtain and equip a Dust battlestaff. 	Attack 30 Attack, Magic 30 Magic
+Equip a Mist Battlestaff 	Obtain and equip a Mist battlestaff. 	Attack 30 Attack, Magic 30 Magic
 Cast Kourend Castle Teleport 	Cast the spell Kourend Castle Teleport after unlocking it by reading transportation incantations. 	Magic 69 Magic
+Equip a Combination Battlestaff or Mystic Staff 	Equip either a combination battlestaff or a combination mystic staff. 	Magic 30 Magic, Attack 30 Attack
 Cast a Wave Spell 	Cast any wave spell. 	Magic 62 Magic
 Cast a Surge Spell 	Cast any surge spell. 	Magic 81 Magic 	Can be completed as Attacker in Barbarian Assault.
 Otherwise requires completion of Quest points Dragon Slayer II for Wrath runes or access to the Fountain of Rune and another player to cast on.
+Equip Bryophyta's Staff 	Equip Bryophyta's staff. 	Attack 30 Attack, Magic 30 Magic
+Switch to the Lunar Spellbook 	Switch to the Lunar spellbook.
+Cast Moonclan Teleport 	Cast the Moonclan Teleport spell. 	Magic 69 Magic
+Cast Fertile Soil 	Cast the Fertile Soil spell. 	Magic 83 Magic
+Equip a Mud Battlestaff 	Equip a mud battlestaff. 	Magic 30 Magic, Attack 30 Attack
 Cast Ice Burst 	Cast the Ice Burst spell. 	Magic 70 Magic 	Completion of Quest points Desert Treasure
+Cast Ice Blitz 	Cast the Ice Blitz spell. 	Magic 82 Magic 	Completion of Quest points Desert Treasure
+Cast Smoke Barrage 	Cast the Smoke Barrage spell. 	Magic 86 Magic 	Completion of Quest points Desert Treasure
+Cast Shadow Barrage 	Cast the Shadow Barrage spell. 	Magic 88 Magic 	Completion of Quest points Desert Treasure
+Equip a Piece of the Infinity Robe Set 	Equip any piece of the Infinity robe set. 	Magic 50 Magic, Defence 25 Defence
 Cast Paddewwa Teleport 	Cast the Paddewwa Teleport spell. 	Magic 54 Magic 	Completion of Quest points Desert Treasure
+Imbue a God Cape 	Imbue either a Saradomin cape, a Guthix cape or Zamorak cape.
+Completion of Quest points The Mage Arena II miniquest
+Equip a Piece of the Dagon'Hai Set 	Equip any piece of the Dagon'hai robes set. 	Magic 70 Magic, Defence 40 Defence
+Cast Degrime Spell Full Clean 	Clean 26 herbs using the Degrime spell. 	Magic 70 Magic 	Requires completion of Quest points A Kingdom Divided
+Reach Level 99 Magic 	Reach level 99 in your Magic skill. 	Magic 99 Magic
+Obtain 25 Million Magic XP 	Obtain 25 million experience in your Magic skill. 	Magic 99 Magic
+Cast Spellbook Swap 	Cast the Spellbook Swap spell. 	Magic 96 Magic
+Create a Catherby Teleport Tablet 	Create a Catherby Teleport Tablet. 	Magic 87 Magic
+Cast Blood Barrage 	Cast the Blood Barrage spell. 	Magic 92 Magic 	Completion of Quest points Desert Treasure
+Cast Ice Barrage 	Cast the Ice Barrage spell. 	Magic 94 Magic 	Completion of Quest points Desert Treasure
+Equip a Full Infinity Robe Set 	Equip a full set of Infinity robes. 	Magic 50 Magic, Defence 25 Defence
+Equip a Master Wand 	Equip a Master Wand. 	Magic 60 Magic
+Equip a Mage's Book 	Equip a Mage's Book. 	Magic 60 Magic
+Equip a Sanguinesti Staff 	Equip a Sanguinesti staff. 	Magic 75 Magic
+Equip a Full Dagon'Hai Set 	Equip a full set of Dagon'hai robes. 	Magic 70 Magic, Defence 40 Defence
+Craft a Ghorrock Teleport Tablet 	Craft a Ghorrock Teleport Tablet. 	Magic 96 	Completion of Quest points Desert Treasure
+Cast Full Sinister Offering 	Offer 3 bones in your inventory using the Sinister Offering spell. 	Magic 92 Magic 	Requires completion of Quest points A Kingdom Divided
+Mining
+Showing 11 of 21 tasks (10 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Mine some Copper Ore 	Mine some Copper Ore.
 Mine some Ore With a Steel Pickaxe 	Mine any ore using a Steel Pickaxe. 	Mining 6 Mining
 Obtain a Gem While Mining 	Obtain any kind of gem whilst mining a rock.
 Mine 50 Iron Ore 	Mine 50 Iron Ore. 	Mining 15 Mining
 Mine some Ore With a Rune Pickaxe 	Mine any ore using a Rune Pickaxe. 	Mining 41 Mining
 Obtain a Clue Geode While Mining 	Obtain any kind of clue geode whilst mining a rock.
+Complete a Volcanic Mine Game 	Complete a Volcanic Mine game on Fossil Island. 	Mining 50 Mining 	150 Kudos
 Obtain 20 Golden Nuggets 	Obtain 20 golden nuggets from the Motherlode Mine beneath Falador. 	Mining 30 Mining
 Mine 30 Chunks of Granite 	Mine 30 chunks of Granite at the Kharidian Desert Quarry. 	Mining 45 Mining 	A pickaxe
+Obtain Adamantite Ore at the Blast Mine 	Obtain a piece of Adamantite ore while taking part in the Blast Mine. 	Mining 60 Mining 	100% Lovakengj favour
 Mine 50 Adamantite Ore 	Mine 50 Adamantite Ore. 	Mining 70 Mining
+Buy an Ash Covered Tome 	Buy an ash covered tome from Petrified Pete's Ore Shop on Fossil Island. 	Mining 50 Mining 	150 kudos to access Volcanic Mine
+Use Some Icy Basalt to Teleport to Weiss 	Use some icy basalt to teleport to Weiss.
+Requires Quest points Making Friends with My Arm completed.
+Use Your Portal Nexus to Teleport to Weiss 	Use a portal nexus in your player-owned house to teleport to Weiss. 	Construction 72 Construction 	Requires Quest points Making Friends with My Arm completed.
+Equip a Full Prospector Outfit 	Equip a full set of prospector gear. 	Mining 30 Mining
+Convert 2,000 Daeyalt Shards Into Essence 	Convert 2,000 Daeyalt Shards into Daeyalt Essence in Darkmeyer in one go. 	Mining 60 Mining 	Completed Sins of the Father
+Obtain Runite Ore at the Blast Mine 	Obtain a piece of Runite ore while taking part in the Blast Mine. 	Mining 75 Mining 	100% Lovakengj favour
+Reach Level 99 Mining 	Reach level 99 in your Mining skill. 	Mining 99 Mining
+Obtain 25 Million Mining XP 	Obtain 25 million experience in your Mining skill. 	Mining 99 Mining
+Mine a Runite Ore Fragment 	Mine a runite ore fragment in the Volcanic Mine on Fossil Island. 	Mining 85 Mining
+Mine Some Runite Ore in the Wilderness 	Mine some Runite Ore in the Wilderness. 	Mining 85 Mining
+Prayer
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Bury Some Bones 	Bury any kind of Bones.
 Restore 5 Prayer Points at an Altar 	Restore 5 or more Prayer Points at any altar. 	Prayer 5 Prayer
 Superhuman Strength and Improved Reflexes 	Use both the Superhuman Strength prayer and the Improved Reflexes prayer at the same time. 	Prayer 16 Prayer
 Sacrifice Some Bones at the Chaos Temple 	Sacrifice some Bones at the Western Chaos Temple altar.
+Reach a Prayer Bonus of 15 	Equip enough items to reach a Prayer bonus of 15 or more.
 Bury Some Wyvern or Dragon Bones 	Bury either some Wyvern Bones or some Dragon Bones.
 Use the Protect from Melee Prayer 	Use the Protect from Melee prayer. 	Prayer 43 Prayer
+Use Enriched Bones on the Strange Machine 	Use Enriched bones on the Strange Machine on Fossil Island.
 Sacrifice Some Dragon Bones at the Chaos Temple 	Sacrifice some Dragon bones at the Western Chaos Temple altar.
 Bury Some Lava Dragon Bones 	Bury some Lava dragon bones.
+Restore 75 Prayer Points at an Altar 	Restore 75 or more Prayer Points at any altar. 	Prayer 75 Prayer
+Activate an Arcane or Dexterous Prayer Scroll 	Activate an Arcane or Dexterous prayer scroll. 	Prayer 77 Prayer, Defence 70 Defence
+Reach Level 99 Prayer 	Reach level 99 in your Prayer skill. 	Prayer 99 Prayer
+Obtain 25 Million Prayer XP 	Obtain 25 million experience in your Prayer skill. 	Prayer 99 Prayer
+Ranged
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Equip a Studded Body and Chaps 	Equip a Studded Body along with some Studded Chaps. 	Ranged 20 Ranged, Defence 20 Defence
 Equip a Maple Shortbow 	Equip a Maple Shortbow. 	Ranged 30 Ranged
 Equip a Full Green Dragonhide Set 	Equip a green d'hide body, some green d'hide chaps and some green d'hide vambs. 	Ranged 40 Ranged, Defence 40 	Quest points Dragon Slayer I completion
+Equip a Full Blue Dragonhide Set 	Equip a blue d'hide body, some blue d'hide chaps and some blue d'hide vambs. 	Ranged 50 Ranged, Defence 40 Defence
+Equip a Full Red Dragonhide Set 	Equip a red d'hide body, some red d'hide chaps and some red d'hide vambs. 	Ranged 60 Ranged, Defence 40 Defence
+Equip a Yew Shortbow 	Equip a Yew Shortbow. 	Ranged 40 Ranged
+Equip Some Ranger Boots 	Equip a pair of Ranger Boots. 	Ranged 40 Ranged
+Equip a Full Black Dragonhide Set 	Equip a black d'hide body, some black d'hide chaps and some black d'hide vambs. 	Ranged 70 Ranged, Defence 40 Defence
+Equip a Magic Shortbow 	Equip a Magic Shortbow. 	Ranged 50 Ranged
+Equip a Rune Crossbow 	Equip a Rune Crossbow. 	Ranged 61 Ranged
+Equip a Dark Bow 	Equip a dark bow. 	Ranged 60 Ranged, Slayer 90 Slayer
+Equip an Ava's Assembler 	Equip an ava's assembler. 	Ranged 70 Ranged
+Reach Level 99 Ranged 	Reach level 99 in your Ranged skill. 	Ranged 99 Ranged
+Obtain 25 Million Ranged XP 	Obtain 25 million experience in your Ranged skill. 	Ranged 99 Ranged
+Equip a Craw's Bow 	Equip a Craw's Bow. 	Ranged 60 Ranged
+Runecraft
+Showing 10 of 24 tasks (14 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Visit the Rune Essence Mine 	Visit the Rune Essence Mine.
 Craft an Air Rune 	Craft an air rune at the Air Altar. 	Runecraft 1 Runecraft
 Craft Any Rune 	Use a Runecrafting Altar to craft any type of rune.
@@ -138,28 +458,132 @@ Quest points Enter the Abyss
 Craft 200 Essence Into Runes 	Use Runecrafting Altars to craft 200 essence into runes of any type.
 Craft 4 Runes With 1 Essence 	Use a Runecrafting Altar to craft 4 of any type of rune using a single essence. 	Runecraft 33 Runecraft
 Craft Any Combination Rune 	Use a Runecrafting Altar to craft any type of combination rune. 	Runecraft 6 Runecraft
+Craft 50 Cosmic Runes 	Craft 50 Cosmic Runes at the Cosmic Altar. 	Runecraft 27 Runecraft 	Quest points Requires completion of Lost City
+Craft 50 Death Runes 	Craft 50 death runes at the Death Altar. 	Runecraft 65 Runecraft 	Quest points Requires completion of Mourning's End Part II
+Craft 50 Nature Runes 	Craft 50 Nature Runes at the Nature Altar. 	Runecraft 44 Runecraft
+Craft a Body Rune 	Craft a body rune at the Body Altar. 	Runecraft 20 Runecraft
 Craft a Lava Rune at the Fire Altar 	Craft a Lava Rune at the Fire Altar. 	Runecraft 23 Runecraft
+Fill a Large Pouch 	Fill a Large Pouch with Essence. 	Runecraft 50 Runecraft
+Craft a Chaos Rune using a Chaos Core 	Craft a Chaos Rune using a Chaos Core. 	Runecraft 35 Runecraft 	Quest points Requires completion of Below Ice Mountain
+Craft 50 Astral Runes 	Craft 50 astral runes at the Astral Altar. 	Runecraft 40 Runecraft 	Quest points Requires completion of Lunar Diplomacy
+Craft 50 Law Runes 	Craft 50 law runes at the Law Altar. 	Runecraft 54 Runecraft
+Craft a Rune Using Daeyalt Essence 	Craft any rune using Daeyalt Essence. 	Mining 60 Mining 	Quest points Requires completion of Sins of the Father
+Fill a Giant Pouch 	Fill a giant pouch with Essence. 	Runecraft 75 Runecraft
+Reach Level 99 Runecraft 	Reach level 99 in your Runecraft skill. 	Runecraft 99 Runecraft
+Obtain 25 Million Runecraft XP 	Obtain 25 million experience in your Runecraft skill. 	Runecraft 99 Runecraft
+Slayer
+Showing 53 of 66 tasks (13 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Receive a Slayer Task 	Receive a slayer task from any Slayer Master.
+Receive a Konar Slayer Task 	Have a slayer task assigned by Konar. 	Combat level 75 Combat level
+Earn Some Slayer Points 	Earn some slayer points by completing a Slayer Task. 	Combat level 20 Combat level
 Check Your Slayer Task 	Use an Enchanted Gem to check your Slayer Task.
 Equip a Spiny Helmet 	Equip a Spiny Helmet. 	Defence 5 Defence
 Receive a Slayer Task From Vannaka 	Receive a Slayer task from Vannaka in Edgeville Dungeon. 	Combat level 40 Combat level
 Defeat a Cockatrice in the Fremennik Province 	Defeat a cockatrice in the Fremennik Province. 	Slayer 25 Slayer
-Defeat a Fire Giant in Kandarin 	Defeat a fire giant in Kandarin.
+Defeat a Pyrefiend in the Fremennik Province 	Defeat a pyrefiend in the Fremennik Province. 	Slayer 30 Slayer
+Receive a Slayer Task From Turael or Spria 	Receive a Slayer task From Turael in Burthorpe or Spria in Draynor Village. 	Slayer 1 Slayer
+Receive a Slayer Task From Mazchna 	Receive a Slayer task from Mazchna in Canifis.
+Unlock Bigger and Badder 	Purchase the Bigger and Badder unlock from the Slayer Rewards Shop.
+Slay 250 Creatures 	Slay 250 creatures whilst on a Slayer Task.
+Defeat a Superior Slayer Creature 	Defeat any Superior Slayer Creature. 	Slayer 5 Slayer
+Defeat a Wall Beast 	Defeat a Wall Beast in the Lumbridge Swamp Caves. 	Slayer 35 Slayer 	Defence 5 Defence to equip spiny helmet.
+Defeat a Kurask in the Fremennik Province 	Defeat a kurask in the Fremennik Province. 	Slayer 70 Slayer
+Defeat a Turoth in the Fremennik Province 	Defeat a turoth in the Fremennik Province. 	Slayer 55 Slayer
+Defeat a Jelly in the Fremennik Province 	Defeat a jelly in the Fremennik Province. 	Slayer 52 Slayer
+Receive a Slayer Task From Nieve or Steve 	Receive a Slayer Task from Nieve or Steve in the Tree Gnome Stronghold. 	Combat level 85 Combat level
+Defeat a Bloodveld in Kandarin 	Defeat a bloodveld in Kandarin. 	Slayer 50 Slayer
+Defeat a Skeletal Wyvern 	Defeat a Skeletal Wyvern in the Asgarnian Ice Dungeon. 	Slayer 72 Slayer 	Must use an elemental shield, mind shield, dragonfire shield, dragonfire ward, ancient wyvern shield to kill.
+Assemble a Slayer Helm 	Assemble a Slayer Helm. 	Crafting 55 Crafting 	400 Slayer points
+Defeat a Slayer Boss 	Defeat any Slayer Boss. 	Slayer 75 Slayer
+Complete 50 Slayer Tasks 	Complete 50 Slayer Tasks.
+Complete 100 Slayer Tasks 	Complete 100 Slayer Tasks.
+Defeat 10 Superior Slayer Creatures 	Defeat 10 Superior Slayer Creatures. 	Slayer 5 Slayer
+Defeat 20 Superior Slayer Creatures 	Defeat 20 Superior Slayer Creatures. 	Slayer 5 Slayer
+Defeat a Bloodveld in Tirannwn 	Defeat a Bloodveld in Tirannwn. 	Slayer 50 Slayer
+Defeat a Kurask in Tirannwn 	Defeat a Kurask in Tirannwn. 	Slayer 70 Slayer
+Defeat a Dark Beast in Tirannwn 	Defeat a Dark Beast in Tirannwn. 	Slayer 90 Slayer
+Defeat a Nechryael in Tirannwn 	Defeat a Nechryael in Tirannwn. 	Slayer 80 Slayer
+Defeat a Basilisk Knight 	Defeat a basilisk knight in the Jormungand's Prison. 	Slayer 60 Slayer
+Receive a Slayer Task From Duradel 	Receive a Slayer Task From Duradel in Shilo Village. 	Combat level 100 Combat level, Slayer 50 Slayer
+Defeat a Cave Kraken 	Defeat a cave kraken in Kraken Cove. 	Slayer 87 Slayer, Magic 50 Magic
+Defeat a Dust Devil in the Kharidian Desert 	Defeat a Dust Devil in the Kharidian Desert. 	Slayer 65 Slayer 	Face mask or Slayer helmet, partial completion of Quest points Desert Treasure
+Defeat a Gargoyle in Morytania 	Defeat a Gargoyle in Morytania. 	Slayer 75 Slayer
+Defeat an Abyssal Demon in Morytania 	Defeat an Abyssal Demon in Morytania. 	Slayer 85 Slayer
+Defeat the Grotesque Guardians 	Defeat the Grotesque Guardians at the Slayer Tower. 	Slayer 75 Slayer
+Defeat the Grotesque Guardians 100 Times 	Defeat the Grotesque Guardians at the Slayer Tower 100 times. 	Slayer 75 Slayer
+Defeat a Drake 	Defeat a Drake in the Karuulm Slayer Dungeon. 	Slayer 84 Slayer
+1 Alchemical Hydra Kill 	Kill the Alchemical Hydra in Mount Karuulm. 	Slayer 95 Slayer
+25 Alchemical Hydra Kills 	Kill the Alchemical Hydra in Mount Karuulm 25 times. 	Slayer 95 Slayer
+50 Alchemical Hydra Kills 	Kill the Alchemical Hydra in Mount Karuulm 50 times. 	Slayer 95 Slayer
+75 Alchemical Hydra Kills 	Kill the Alchemical Hydra in Mount Karuulm 75 times. 	Slayer 95 Slayer
+100 Alchemical Hydra Kills 	Kill the Alchemical Hydra in Mount Karuulm 100 times. 	Slayer 95 Slayer
+250 Alchemical Hydra Kills 	Kill the Alchemical Hydra in Mount Karuulm 250 times. 	Slayer 95 Slayer
+500 Alchemical Hydra Kills 	Kill the Alchemical Hydra in Mount Karuulm 500 times. 	Slayer 95 Slayer
+Equip a Brimstone Ring 	Obtain and equip a Brimstone ring. 	Slayer 95 Slayer
+Reach Level 99 Slayer 	Reach level 99 in your Slayer skill. 	Slayer 99 Slayer
+Obtain 25 Million Slayer XP 	Obtain 25 million experience in your Slayer skill. 	Slayer 99 Slayer
+Slay an Abyssal Demon 	Kill an Abyssal Demon whilst on an Abyssal Demon Slayer Task. 	Slayer 85 Slayer
+Defeat 50 Superior Slayer Creatures 	Defeat 50 Superior Slayer Creatures. 	Slayer 5 Slayer
+Offer an Unsired to the Font of Consumption 	Offer an Unsired to the Font of Consumption in the Abyssal Nexus. 	Slayer 85 Slayer
+Defeat the Abyssal Sire 100 Times 	Defeat the Abyssal Sire in the Abyssal Nexus 100 times. 	Slayer 85 Slayer
+Defeat the Abyssal Sire 250 Times 	Defeat the Abyssal Sire in the Abyssal Nexus 250 times. 	Slayer 85 Slayer
+Defeat the Abyssal Sire 500 Times 	Defeat the Abyssal Sire in the Abyssal Nexus 500 times. 	Slayer 85 Slayer
+Defeat a Smoke Devil 	Defeat a smoke devil in the Smoke Devil Dungeon. 	Slayer 93 Slayer 	Requires a slayer task to attack.
+Defeat the Thermonuclear Smoke Devil 	Defeat the thermonuclear smoke devil in the Smoke Devil Dungeon. 	Slayer 93 Slayer 	Can be killed once without a slayer task.
+Defeat Cerberus 	Defeat Cerberus in the Taverley Dungeon. 	Slayer 91 Slayer
+Defeat Cerberus Before She Summons Souls 	Defeat Cerberus before she summons souls. 	Slayer 91 Slayer
+Defeat the Grotesque Guardians 250 Times 	Defeat the Grotesque Guardians at the Slayer Tower 250 times. 	Slayer 75 Slayer
+Defeat a Hydra 	Defeat a Hydra in the Karuulm Slayer Dungeon. 	Slayer 95 Slayer
+750 Alchemical Hydra Kills 	Kill the Alchemical Hydra in Mount Karuulm 750 times. 	Slayer 95 Slayer
+Smithing
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Smelt a Bronze Bar 	Use a Furnace to smelt a Bronze Bar.
 Smelt an Iron Bar 	Use a Furnace to smelt an Iron Bar. 	Smithing 15 Smithing
 Smith 150 Iron Arrowtips 	Use an Anvil to smith 150 Iron Arrowtips. 	Smithing 20 Smithing
+Smith 1000 Mithril Dart Tips 	Use an Anvil to smith 1000 Mithril Dart Tips. 	Smithing 54 Smithing 	Completion of Quest points The Tourist Trap
 Smith a Steel Platebody 	Use an Anvil to smith a Steel Platebody. 	Smithing 48 Smithing
 Smelt a Steel Bar 	Use a Furnace to smelt a Steel Bar. 	Smithing 30 Smithing
+Unlock Free Use of the Blast Furnace 	Unlock free use of the Keldagrim Blast Furnace by speaking with the Foreman. 	Smithing 60 Smithing
+Smith 1000 Adamant Dart Tips 	Use an Anvil to smith 1000 Adamant Dart Tips. 	Smithing 74 Smithing 	Completion of Quest points The Tourist Trap
+Smelt a Runite Bar 	Use a Furnace to smelt a runite bar. 	Smithing 85 Smithing
+Craft a Piece of Crystal Armour 	Use a singing bowl to craft any piece of crystal armour. 	Smithing 70 Smithing, Crafting 50 Crafting
+Craft an Eternal Teleport Crystal 	Use a Singing Bowl to craft an eternal teleport crystal. 	Smithing 80 Smithing, Crafting 80 Crafting
+Reach Level 99 Smithing 	Reach level 99 in your Smithing skill. 	Smithing 99 Smithing
+Obtain 25 Million Smithing XP 	Obtain 25 million experience in your Smithing skill. 	Smithing 99 Smithing
+Smith a Dragonfire Shield 	Use an Anvil to smith a Dragonfire Shield. 	Smithing 90 Smithing
+Smith 1000 Rune Dart Tips 	Use an Anvil to smith 1000 Rune Dart Tips. 	Smithing 89 Smithing 	Completion of Quest points The Tourist Trap
+Strength
+Name 	Task 	Skill(s) needed 	
+Other requirements
+Equip a Dragon Warhammer 	Obtain and equip a Dragon warhammer. 	Strength 60 Strength
+Equip a Tzhaar-Ket-Om 	Equip a Tzhaar-Ket-Om. 	Strength 60 Strength
+Reach Level 99 Strength 	Reach level 99 in your Strength skill. 	Strength 99 Strength
+Obtain 25 Million Strength XP 	Obtain 25 million experience in your Strength skill. 	Strength 99 Strength
+Thieving
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Pickpocket a Citizen 	Pickpocket a Man or a Woman.
 Open 28 Coin Pouches At Once 	Open 28 Coin Pouches at once.
 Steal a Chocolate Slice 	Steal a chocolate slice from a bakery stall. 	Thieving 5 Thieving
 Steal From the Varrock Tea Stall 	Steal from the Tea Stall in Varrock. 	Thieving 5 Thieving
 Steal a Golovanova Fruit Top 	Steal a Golovanova fruit top from a fruit stall in Hosidius. 	Thieving 25 Thieving 	15% Hosidius favour
+Steal 1 Artefact 	Steal an artefact for Captain Khaled, in Piscarilius. 	Thieving 49 Thieving 	75% Piscarilius favour, Lockpick
+Steal 10 Artefacts 	Steal 10 artefacts for Captain Khaled, in Piscarilius. 	Thieving 49 Thieving 	75% Piscarilius favour, Lockpick
 Pickpocket a H.A.M. Member 	Pickpocket any H.A.M. member at their hideout. 	Thieving 15 Thieving
 Complete Room 1 of Pyramid Plunder 	Search the Golden Chest in Room 1 of Pyramid Plunder in Sophanem. 	Thieving 21 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
 Complete Room 2 of Pyramid Plunder 	Search the Golden Chest in Room 2 of Pyramid Plunder in Sophanem. 	Thieving 31 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
+Pick a Winter Sq'irk 	Pick a Winter Sq'irk in the Sorceress's Garden.
+Completion of Quest points Prince Ali Rescue
+Turn in a Winter Sq'irkjuice to Osman 	Turn in a Winter Sq'irkjuice to Osman in Al Kharid.
+Completion of Quest points Prince Ali Rescue
 Steal Some Silk 	Steal some silk from a silk stall. 	Thieving 20 Thieving
 Pickpocket a Master Farmer 	Successfully pickpocket from a master farmer. 	Thieving 38 Thieving
+Steal 25 Artefacts 	Steal 25 artefacts for Captain Khaled, in Piscarilius. 	Thieving 49 Thieving 	75% Piscarilius favour, Lockpick
+Steal 50 Artefacts 	Steal 50 artefacts for Captain Khaled, in Piscarilius. 	Thieving 49 Thieving 	75% Piscarilius favour, Lockpick
+Steal 100 Artefacts 	Steal 100 artefacts for Captain Khaled, in Piscarilius. 	Thieving 49 Thieving 	75% Piscarilius favour, Lockpick
 Pickpocket a Guard 	Pickpocket a Guard. 	Thieving 40 Thieving
 Obtain 800 Coins From Coin Pouches At Once 	Open a stack of coin pouches and obtain at least 800 Coins. 	Thieving 40 Thieving
 Pickpocket a Ranarr Seed 	Pickpocket a Ranarr Seed from a Master Farmer. 	Thieving 38 Thieving
@@ -169,7 +593,11 @@ Pickpocket a Knight of Ardougne 50 Times 	Pickpocket a Knight of Ardougne 50 tim
 Complete Room 3 of Pyramid Plunder 	Search the Golden Chest in Room 3 of Pyramid Plunder in Sophanem. 	Thieving 41 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
 Complete Room 4 of Pyramid Plunder 	Search the Golden Chest in Room 4 of Pyramid Plunder in Sophanem. 	Thieving 51 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
 Complete Room 5 of Pyramid Plunder 	Search the Golden Chest in Room 5 of Pyramid Plunder in Sophanem. 	Thieving 61 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
+Pick a Spring Sq'irk 	Pick a Spring Sq'irk in the Sorceress's Garden. 	Thieving 25 Thieving 	Completion of Quest points Prince Ali Rescue
+Pick a Autumn Sq'irk 	Pick a Autumn Sq'irk in the Sorceress's Garden. 	Thieving 45 Thieving 	Completion of Quest points Prince Ali Rescue
+Turn in 10 Spring Sq'irkjuices to Osman 	Turn in 10 Spring sq'irkjuices to Osman in Al Kharid in one go. 	Thieving 25 Thieving 	Completion of Quest points Prince Ali Rescue
 Pickpocket a Bandit in the Bandit Camp 	Pickpocket a Bandit in the Kharidian Desert's Bandit Camp. 	Thieving 53 Thieving
+Steal 250 Artefacts 	Steal 250 artefacts for Captain Khaled, in Piscarilius. 	Thieving 49 Thieving 	75% Piscarilius favour, Lockpick
 Steal From a Gem Stall 	Steal from a Gem Stall. 	Thieving 75 Thieving
 Steal a Diamond in Dorgesh-Kaan 	Steal a Diamond from a chest in Dorgesh-Kaan. 	Thieving 78 Thieving 	Lockpick.png Lockpick
 Pickpocket an Elf 50 Times 	Pickpocket an elf 50 times. 	Thieving 85 Thieving
@@ -177,7 +605,22 @@ Pickpocket a Hero 	Pickpocket any Hero. 	Thieving 80 Thieving
 Equip a Full Rogue Outfit 	Equip a full set of rogue gear. 	Thieving 50 Thieving, Agility 50 Agility
 Complete Room 6 of Pyramid Plunder 	Search the Golden Chest in Room 6 of Pyramid Plunder in Sophanem. 	Thieving 71 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
 Complete Room 7 of Pyramid Plunder 	Search the Golden Chest in Room 7 of Pyramid Plunder in Sophanem. 	Thieving 81 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
+Pick a Summer Sq'irk 	Pick a Summer Sq'irk in the Sorceress's Garden. 	Thieving 65 Thieving 	Completion of Quest points Prince Ali Rescue
+Turn in 25 Autumn Sq'irkjuices to Osman 	Turn in 25 Autumn sq'irkjuices to Osman in Al Kharid in one go. 	Thieving 45 Thieving 	Completion of Quest points Prince Ali Rescue
 Pickpocket a Menaphite Thug 50 Times 	Knock out and then pickpocket a Menaphite Thug 50 times. 	Thieving 65 Thieving 	Quest points The Feud or Minigames Rogue Trader to acquire a blackjack
+Pickpocket a Vyre 50 Times 	Pickpocket a Vyre 50 times. 	Thieving 82 Thieving 	Completion of Quest points Sins of the Father
+Steal 500 Artefacts 	Steal 500 artefacts for Captain Khaled, in Piscarilius. 	Thieving 49 Thieving 	75% Piscarilius favour, Lockpick
+Reach Level 99 Thieving 	Reach level 99 in your Thieving skill. 	Thieving 99 Thieving
+Obtain 25 Million Thieving XP 	Obtain 25 million experience in your Thieving skill. 	Thieving 99 Thieving
+Pickpocket a Diamond From a TzHaar 	Pickpocket a Diamond from a TzHaar-Hur. 	Thieving 90 Thieving 	Fire cape to enter inner Mor Ul Rek
+Complete Room 8 of Pyramid Plunder 	Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem. 	Thieving 91 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
+Complete Room 8 of Pyramid Plunder 50 Times 	Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 50 times. 	Thieving 91 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
+Complete Room 8 of Pyramid Plunder 100 Times 	Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 100 times. 	Thieving 91 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
+Complete Room 8 of Pyramid Plunder 250 Times 	Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 250 times. 	Thieving 91 Thieving (unboostable) 	Partial completion of Quest points Icthlarin's Little Helper
+Turn in 100 Summer Sq'irkjuices to Osman 	Turn in 100 Summer sq'irkjuices to Osman in Al Kharid. 	Thieving 65 Thieving 	Completion of Quest points Prince Ali Rescue
+Woodcutting
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Chop Some Logs 	Chop any kind of logs.
 Chop Some Logs With a Steel Axe 	Chop any kind of logs using a steel axe. 	Woodcutting 6 Woodcutting
 Obtain a Bird Nest 	Obtain a Bird Nest whilst cutting down trees.
@@ -186,6 +629,14 @@ Chop 100 Willow Logs 	Chop 100 Willow Logs from willow trees. 	Woodcutting 30 Wo
 Chop Some Logs With a Rune Axe 	Chop any kind of logs using a Rune Axe. 	Woodcutting 41 Woodcutting
 Build a Waka Canoe 	Build a Waka Canoe. 	Woodcutting 57 Woodcutting
 Chop a Sulliuscep Cap 	Chop a Sulliuscep Cap on Fossil Island. 	Woodcutting 65 Woodcutting 	Quest points Bone Voyage
+Chop a Magic Log at the Forsaken Tower 	Chop a log from the Magic trees around The Forsaken Tower . 	Woodcutting 75 Woodcutting
+Chop 75 Magic Logs 	Chop 75 Magic Logs from Magic Trees. 	Woodcutting 75 Woodcutting
+Reach Level 99 Woodcutting 	Reach level 99 in your Woodcutting skill. 	Woodcutting 99 Woodcutting
+Obtain 25 Million Woodcutting XP 	Obtain 25 million experience in your Woodcutting skill. 	Woodcutting 99 Woodcutting
+Combat
+Showing 171 of 195 tasks (24 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Defeat a Goblin 	Defeat a Goblin. After all, this is not the Goblin League.
 Defeat a Moss Giant 	Defeat a Moss Giant.
 Defeat a Guard 	Defeat a Guard.
@@ -200,6 +651,10 @@ Defeat a Blue Dragon in Asgarnia 	Defeat a blue dragon in Asgarnia.
 Defeat a Black Demon in Asgarnia 	Defeat a black demon in Asgarnia.
 Defeat an Al Kharid Warrior 	Defeat an Al Kharid Warrior.
 Defeat a Werewolf in Morytania 	Defeat a Werewolf in Morytania.
+Defeat One of Fenkenstrain's Experiments 	Defeat one of Fenkenstrain's Experiments in the Experiment Cave.
+Requires partial completion of Quest points Creature of Fenkenstrain
+Defeat a Ghast 	Defeat a Ghast in Mort Myre.
+Requires completion of Quest points Nature Spirit
 Defeat a Lava Dragon in the Wilderness 	Defeat a Lava dragon in the Wilderness.
 Optionally a knife or a slash weapon to slash webs or Agility 52 Agility and Tasks Wilderness hard diary if meleeing, alternatively ranged or magic equipment
 Defeat a Fire Giant in the Wilderness 	Defeat a Fire Giant in the Wilderness.
@@ -207,10 +662,129 @@ Defeat a Chaos Dwarf in the Wilderness 	Defeat a Chaos Dwarf in the Wilderness.
 Defeat a Green Dragon in the Wilderness 	Defeat a Green Dragon in the Wilderness.
 Defeat an Adult Chromatic Dragon 	Defeat either an adult Green Dragon, Blue Dragon, Red Dragon or Black Dragon.
 Defeat a Lesser Demon 	Defeat a Lesser Demon.
-Defeat an Elf in Tirannwn 	Defeat an Elf in Tirannwn.
-Defeat a Kalphite Guardian 	Defeat a Kalphite Guardian in the Kharidian Desert.
+100 Lizardmen Shaman Kills 	Help the Shayzien house by killing 100 Lizardmen shamans.
+100% Shayzien favour
+500 Lizardmen Shaman Kills 	Help the Shayzien house by killing 500 Lizardmen shamans.
+100% Shayzien favour
+1000 Lizardmen Shaman Kills 	Help the Shayzien house by killing 1000 Lizardmen shamans.
+100% Shayzien favour
+Defeat Obor 	Defeat Obor in Edgeville Dungeon.
+Requires a giant key.
+Defeat Bryophyta 	Defeat Bryophyta in Edgeville Dungeon.
+Requires a mossy key.
+Defeat the Giant Mole 	Defeat the Giant Mole beneath Falador.
+Bring a light source in the cave.
+Defeat Some Animated Rune Armour 	Defeat some Animated Rune Armour in the Warriors' Guild.
+Requires access to the Warriors' Guild.
+Defeat a Scarab Mage 	Defeat a Scarab Mage in the Sophanem Dungeon.
+Partial completion of Quest points Contact! , a light source
+Defeat a Fiyr Shade 	Defeat a Fiyr Shade. 	Firemaking 65 Firemaking (killing the shade in Temple Trekking doesn't count)
+Defeat a Vyrewatch Sentinel 	Defeat a Vyrewatch Sentinel in Darkmeyer.
+Completed Sins of the Father
 Defeat the Crazy Archaeologist 	Defeat the Crazy Archaeologist in the Wilderness.
 Defeat a Crocodile 	Defeat a Crocodile in the Kharidian Desert.
+2500 Lizardmen Shaman Kills 	Help the Shayzien house by killing 2500 Lizardmen shamans.
+100% Shayzien favour
+5000 Lizardmen Shaman Kills 	Help the Shayzien house by killing 5000 Lizardmen shamans.
+100% Shayzien favour
+1 Sarachnis Kill 	Kill Sarachnis in the Forthos Dungeon.
+Slash weapon or a knife to access area
+25 Sarachnis Kills 	Kill Sarachnis in the Forthos Dungeon 25 times.
+Slash weapon or a knife to access area
+50 Sarachnis Kills 	Kill Sarachnis in the Forthos Dungeon 50 times.
+Slash weapon or a knife to access area
+75 Sarachnis Kills 	Kill Sarachnis in the Forthos Dungeon 75 times.
+Slash weapon or a knife to access area
+100 Sarachnis Kills 	Kill Sarachnis in the Forthos Dungeon 100 times.
+Slash weapon or a knife to access area
+Slash weapon or a knife to access area
+500 Sarachnis Kills 	Kill Sarachnis in the Forthos Dungeon 500 times.
+Slash weapon or a knife to access area
+Defeat a Rune Dragon 	Defeat a Rune Dragon in the Lithkren Vault.
+The Fremennik Provinces
+Defeat the Abyssal Sire 	Defeat the Abyssal Sire in the Abyssal Nexus. 	Slayer 85 Slayer
+Defeat Zulrah 	Defeat Zulrah at the Poison Waste.
+Defeat a Demonic Gorilla 	Defeat a demonic gorilla in the Crash Site Cavern.
+Defeat K'ril Tsutsaroth 	Defeat K'ril Tsutsaroth in the God Wars Dungeon. 	Hitpoints 70 Hitpoints
+Defeat General Graardor 	Defeat General Graardor in the God Wars Dungeon. 	Strength 70 Strength
+Defeat Kree'arra 	Defeat Kree'arra in the God Wars Dungeon. 	Ranged 70 Ranged
+Defeat Commander Zilyana 	Defeat Commander Zilyana in the God Wars Dungeon. 	Agility 70 Agility
+Defeat Phosani's Nightmare 	Defeat Phosani's Nightmare in the Sisterhood Sanctuary.
+Requires one killcount of The Nightmare.
+Defeat The Nightmare or Phosani's Nightmare 5 times 	Defeat The Nightmare or Phosani's Nightmare 5 times combined.
+Requires one killcount of The Nightmare.
+Defeat The Nightmare or Phosani's Nightmare 10 times 	Defeat The Nightmare or Phosani's Nightmare 10 times combined.
+Requires one killcount of The Nightmare.
+Defeat The Nightmare or Phosani's Nightmare 25 times 	Defeat The Nightmare or Phosani's Nightmare 25 times combined.
+Requires one killcount of The Nightmare.
+Defeat Nex 	Defeat Nex in the God Wars Dungeon. 	Hitpoints 70 Hitpoints, Ranged 70 Ranged, Strength 70 Strength, Agility 70 Agility 	Requires assembling a frozen key.
+Defeat Nex 10 Times 	Defeat Nex in the God Wars Dungeon 10 times. 	Hitpoints 70 Hitpoints, Ranged 70 Ranged, Strength 70 Strength, Agility 70 Agility 	Requires assembling a frozen key.
+Defeat Nex 25 Times 	Defeat Nex in the God Wars Dungeon 25 times. 	Hitpoints 70 Hitpoints, Ranged 70 Ranged, Strength 70 Strength, Agility 70 Agility 	Requires assembling a frozen key.
+Defeat Nex 50 Times 	Defeat Nex in the God Wars Dungeon 50 times. 	Hitpoints 70 Hitpoints, Ranged 70 Ranged, Strength 70 Strength, Agility 70 Agility 	Requires assembling a frozen key.
+75 Skotizo Kills 	Kill Skotizo beneath the Catacombs of Kourend 75 times.
+200 Skotizo Kills 	Kill Skotizo beneath the Catacombs of Kourend 200 times.
+250 Skotizo Kills 	Kill Skotizo beneath the Catacombs of Kourend 250 times.
+Defeat the Kraken Boss 250 Times 	Defeat the Kraken boss in Kraken Cove 250 times. 	Slayer 87 Slayer 	Requires a slayer task to attack.
+Defeat the Kraken Boss 500 Times 	Defeat the Kraken boss in Kraken Cove 500 times. 	Slayer 87 Slayer 	Requires a slayer task to attack.
+Defeat the Kraken Boss 750 Times 	Defeat the Kraken boss in Kraken Cove 750 times. 	Slayer 87 Slayer 	Requires a slayer task to attack.
+Defeat 1500 Demonic Gorillas 	Defeat 1500 demonic gorillas in the Crash Site Cavern.
+Defeat the Kalphite Queen 	Defeat the Kalphite Queen in the Kalphite Lair.
+Two ropes
+Defeat the Kalphite Queen 100 Times 	Defeat the Kalphite Queen in the Kalphite Lair 100 times.
+Two ropes or Tasks Desert hard diary
+Defeat the Kalphite Queen 250 Times 	Defeat the Kalphite Queen in the Kalphite Lair 250 times.
+Two ropes or Tasks Desert hard diary
+Defeat the Kalphite Queen 500 Times 	Defeat the Kalphite Queen in the Kalphite Lair 500 times.
+Two ropes or Tasks Desert hard diary
+Defeat The Nightmare 	Defeat The Nightmare in the Sisterhood Sanctuary.
+Requires completion of Priest in Peril
+Complete the Theatre of Blood in 20:00 	Complete the Theatre of Blood in 20:00 or less challenge time with 3 players or less.
+Requires completion of Priest in Peril
+Defeat The Nightmare in 3:00 	Defeat The Nightmare in the Sisterhood Sanctuary in 3:00 or less with 5 players or less.
+Requires completion of Priest in Peril
+Complete the Theatre of Blood 50 Times 	Complete the Theatre of Blood on Normal or Hard Mode 50 times.
+Requires completion of Priest in Peril
+Complete the Theatre of Blood 100 Times 	Complete the Theatre of Blood 100 times.
+Requires completion of Priest in Peril
+Complete the Theatre of Blood 200 Times 	Complete the Theatre of Blood 200 times.
+Requires completion of Priest in Peril
+Complete the Theatre of Blood 300 Times 	Complete the Theatre of Blood on Normal or Hard Mode 300 times.
+Requires completion of Priest in Peril
+Complete the Theatre of Blood 350 Times 	Complete the Theatre of Blood 350 times.
+Requires completion of Priest in Peril
+Complete the Theatre of Blood 500 Times 	Complete the Theatre of Blood 500 times.
+Requires completion of Priest in Peril
+750 Sarachnis Kills 	Kill Sarachnis in the Forthos Dungeon 750 times.
+Defeat The Nightmare or Phosani's Nightmare 50 times 	Defeat The Nightmare or Phosani's Nightmare 50 times combined.
+Requires completion of Priest in Peril
+Defeat The Nightmare or Phosani's Nightmare 100 times 	Defeat The Nightmare or Phosani's Nightmare 100 times combined.
+Requires completion of Priest in Peril
+Defeat The Nightmare or Phosani's Nightmare 250 times 	Defeat The Nightmare or Phosani's Nightmare 250 times combined.
+Requires completion of Priest in Peril
+Defeat The Nightmare or Phosani's Nightmare 500 times 	Defeat The Nightmare or Phosani's Nightmare 500 times combined.
+Requires completion of Priest in Peril
+Defeat The Nightmare or Phosani's Nightmare 750 times 	Defeat The Nightmare or Phosani's Nightmare 750 times combined.
+Requires completion of Priest in Peril
+Defeat the Theatre of Blood Hardmode 	Defeat the Theatre of Blood Hardmode.
+Requires completion of Priest in Peril
+Defeat the Theatre of Blood Hardmode 25 times 	Defeat the Theatre of Blood Hardmode 25 times.
+Requires completion of Priest in Peril
+Defeat the Theatre of Blood Hardmode 50 times 	Defeat the Theatre of Blood Hardmode 50 times.
+Requires completion of Priest in Peril
+Defeat the Theatre of Blood Hardmode 100 times 	Defeat the Theatre of Blood Hardmode 100 times.
+Requires completion of Priest in Peril
+Defeat the Theatre of Blood Hardmode 150 times 	Defeat the Theatre of Blood Hardmode 150 times.
+Requires completion of Priest in Peril
+Defeat Nex 100 Times 	Defeat Nex in the God Wars Dungeon 100 times. 	Hitpoints 70 Hitpoints, Ranged 70 Ranged, Strength 70 Strength, Agility 70 Agility 	Requires assembling a frozen key.
+Defeat Nex 200 Times 	Defeat Nex in the God Wars Dungeon 200 times. 	Hitpoints 70 Hitpoints, Ranged 70 Ranged, Strength 70 Strength, Agility 70 Agility 	Requires assembling a frozen key.
+100 Mimic Kills 	Kill the Mimic as part of a treasure trail 100 times.
+Complete the Theatre of Blood in 16:00 	Complete the Theatre of Blood in 16:00 or less challenge time with 3 players or less.
+Requires completion of Priest in Peril
+Defeat Nex 500 Times 	Defeat Nex in the God Wars Dungeon 500 times. 	Hitpoints 70 Hitpoints, Ranged 70 Ranged, Strength 70 Strength, Agility 70 Agility 	Requires assembling a frozen key.
+Quests
+Showing 14 of 36 tasks (22 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Complete Rune Mysteries 	Complete the Rune Mysteries quest.
 Complete Sheep Shearer 	Complete the Sheep Shearer quest.
 Complete Romeo & Juliet 	Complete the Romeo & Juliet quest
@@ -222,17 +796,52 @@ Complete Queen of Thieves 	Complete The Queen of Thieves quest. 	See quest page 
 Complete Forsaken Tower 	Complete The Forsaken Tower quest. 	See quest page 	See quest page
 Complete Ascent of Arceuus 	Complete The Ascent of Arceuus quest. 	See quest page 	See quest page
 Complete Vampyre Slayer 	Complete the Vampyre Slayer quest.
+Complete Tower of Life 	Complete the Tower of Life quest. 	See quest page
+Complete Sea Slug 	Complete the Sea Slug quest. 	See quest page
 Complete The Golem 	Complete The Golem quest. 	Crafting 20 Crafting, Thieving 25 Thieving
 Complete Fishing Contest 	Complete the Fishing Contest Quest 	Fishing 10 Fishing
 Complete Depths of Despair 	Complete The Depths of Despair quest. 	See quest page 	See quest page
 Complete Tale Of The Righteous 	Complete the Tale of the Righteous quest. 	See quest page 	See quest page
+In Search Of Knowledge 	Complete the mini-quest 'In Search of Knowledge '. 	See quest page 	See quest page
 Architectural Alliance 	Complete the mini-quest 'Architectural Alliance '. 	See quest page 	See quest page
-Complete Demon Slayer 	Complete the Demon Slayer quest.
 Complete The Lost Tribe 	Complete The Lost Tribe quest. 	See quest page
 Complete Death to the Dorgeshuun 	Complete the Death to the Dorgeshuun quest. 	Agility 23 Agility, Thieving 23 Thieving
+Complete Throne of Miscellania 	Complete the Throne of Miscellania quest. 	See quest page
+Complete Royal Trouble 	Complete the Royal Trouble quest. 	See quest page
+Complete Olaf's Quest 	Complete Olaf's Quest . 	See quest page
+Complete Elemental Workshop II 	Complete the Elemental Workshop II quest. 	See quest page
 Complete the Observatory Quest 	Complete the Observatory Quest . 	See quest page
+Complete A Porcine of Interest 	Complete the A Porcine of Interest quest. 	See quest page
+Complete Spirits of the Elid 	Complete the Spirits of the Elid quest. 	Magic 33 , Ranged 37 , Mining 37 , Thieving 37
 Complete Shadow of the Storm 	Complete the Shadow of the Storm quest. 	Crafting 30 Crafting
+Complete Haunted Mine 	Complete the Haunted Mine quest.
+Complete A Taste of Hope 	Complete the A Taste of Hope quest.
+Complete Sins of the Father 	Complete the Sins of the Father quest.
+Complete Enakhra's Lament 	Complete the Enakhra's Lament quest. 	Crafting 50 , Firemaking 45 , Prayer 43 , Magic 39
 The Frozen Door 	Complete the mini-quest 'The Frozen Door'. 	Agility 70 Agility, Hitpoints 70 Hitpoints, Ranged 70 Ranged, Strength 70 Strength,
+Clues
+Name 	Task 	Skill(s) needed 	
+Other requirements
+Complete a Beginner Clue Scroll 	Complete a beginner clue scroll by opening a Reward Casket.
+Gain a Unique Item From an Easy Clue 	Gain a unique item from an Easy Clue Scroll Reward Casket.
+Complete an Easy Clue Scroll 	Complete an easy clue scroll by opening a Reward Casket.
+Magic 40 Magic 	Requires all pieces, from easy, medium and hard clues
+Use the Explore Emote 	Use the Explore emote.
+Solve 600 beginner clues
+Read a Clueless Scroll 	Read a Clueless scroll.
+Solve 400 medium clues
+Equip a Heavy Casket 	Equip a Heavy casket.
+Solve 200 elite clues
+Equip a Scroll Sack 	Equip a Scroll sack.
+Solve 100 master clues
+Transform into Uri 	Use the Uri Transform emote.
+Solve 300 hard clues
+Fill Every Beginner Clue Collection Log Slot 	Fill every slot in the Beginner Clue section of the Collection Log.
+Obtaining a black pickaxe from easy clue scrolls does count towards this task.
+General
+Showing 310 of 420 tasks (110 completed)
+Name 	Task 	Skill(s) needed 	
+Other requirements
 Visit Ferox Enclave 	Visit Ferox Enclave.
 Turn in 1 Library Book 	Find and turn in a book in the Arceuus Library.
 Turn in 10 Library Books 	Find and turn in 10 books in the Arceuus Library.
@@ -270,26 +879,51 @@ Friend of House Shayzien 	Achieve 100% favour with the Shayzien house.
 Friend of House Arceuus 	Achieve 100% favour with the Arceuus house.
 Friend of House Lovakengj 	Achieve 100% favour with the Lovakengj house.
 Friend of House Piscarilius 	Achieve 100% favour with the Piscarilius house.
+Kourend and Kebos Easy Diary Tasks 	Complete all tasks in the easy tier of the Kourend and Kebos achievement diary. 	See here 	See here
+Open 1 Grubby Chest 	Open the grubby chest in the Forthos Dungeon. 	Thieving 57 Thieving
 Turn in 25 Library Books 	Find and turn in 25 books in the Arceuus Library.
 Turn in 50 Library Books 	Find and turn in 50 books in the Arceuus Library.
+Turn in 100 Library Books 	Find and turn in 100 books in the Arceuus Library.
 Enter Level 3 of the Chasm of Fire 	Enter the 3rd level of the Chasm of Fire in Shayzien.
 Reach Total Level 100 	Reach a Total Level of 100.
 Reach Total Level 250 	Reach a Total Level of 250.
 Reach Total Level 500 	Reach a Total Level of 500.
 Reach Combat Level 25 	Reach Combat Level 25.
 Visit Death's Domain 	Visit Death's Domain.
+Complete the Easy Lumbridge & Draynor Diary 	Complete all of the easy tasks in the Lumbridge & Draynor Achievement Diary. 	See diary page
 Enter Zanaris 	Enter the lost city of Zanaris.
 Drink From the Tears of Guthix 	Drink from the Tears of Guthix in the Lumbridge Swamp Caves.
 Quest points 43 Quest points
 Equip Some Fancy Boots or Fighting Boots 	Equip either a pair of Fancy Boots or a pair of Fighting Boots.
 Fully Unlock the Mycelium Transportation System 	Unlock every destination of the Mycelium Transportation System on Fossil Island.
+Build a Bank on Fossil Island 	Build a Bank at the Museum Camp on Fossil Island. 	Construction 21 Construction
+Complete the Easy Fremennik Diary 	Complete all of the easy tasks in the Fremennik Achievement Diary. 	See diary page
+Complete the Easy Karamja Diary 	Complete all of the easy tasks in the Karamja Achievement Diary. 	See diary page
 Pick a Pineapple on Karamja 	Pick a Pineapple on Karamja.
 Enter the Brimhaven Dungeon 	Enter the Brimhaven Dungeon.
 875 Coins
-Brimstail Rune Essence Mine teleport 	Have Brimstail teleport you to the Rune Essence Mine.
+Equip a Marksman Chompy Hat 	Equip a chompy bird hat.
+Requires Quest points Big Chompy Bird Hunting completed
+Complete the Easy Kandarin Diary 	Complete all of the easy tasks in the Kandarin Achievement Diary. 	See diary page
+Complete the Easy Western Provinces Diary 	Complete all of the easy tasks in the Western Provinces Achievement Diary. 	See diary page
+Complete the Easy Falador Diary 	Complete all of the easy tasks in the Falador Achievement Diary. 	See diary page
+Unlock a Gate in Taverley Dungeon 	Unlock a gate in Taverley Dungeon using the dusty key.
+Complete a Game of Novice Pest Control 	Complete a game of novice Pest Control. 	Combat level 40 Combat level
+Complete the Easy Desert Diary 	Complete all of the easy tasks in the Desert Achievement Diary. 	See diary page
 Tan a Cow Hide in the Kharidian Desert 	Tan a cow hide in the Kharidian Desert.
 1 Coin
+Complete the Easy Morytania Diary 	Complete all of the easy tasks in the Morytania Achievement Diary. 	See diary page
+Complete an Easy Temple Trek 	Complete an easy Temple Trek
+Quest points In Aid of the Myreque
 Visit Port Phasmatys 	Visit Port Phasmatys.
+Obtain a Rune Crossbow From a Lucky Impling 	Obtain a rune crossbow from a Lucky Impling in Morytania. 	Hunter 89 Hunter
+Visit Harmony Island 	Visit Harmony Island.
+Requires Quest points Cabin Fever completed
+Visit Mos Le'Harmless 	Visit Mos Le'Harmless.
+Requires Quest points Cabin Fever completed
+Complete the Easy Wilderness Diary 	Complete all of the easy tasks in the Wilderness Achievement Diary. 	See diary page 	25 Sage's Renown to unlock King Black Dragon
+Use a Lever to Teleport to Edgeville 	Use the lever near the Mage Arena to teleport to Edgeville.
+Completion of the Tasks Wilderness Easy Diary
 Pray at the Southern Chaos Temple 	Pray at the altar in the Southern Chaos Temple.
 Pray at the Western Chaos Temple 	Pray at the altar in the Western Chaos Temple.
 Enter the Wilderness Resource Area 	Enter the Wilderness Resource Area.
@@ -300,36 +934,271 @@ Possibly a knife or a slash weapon to slash webs
 Take a Carpet Ride from Pollnivneach to Sophanem 	Take a carpet ride from Pollnivneach to Sophanem.
 Requires starting Icthlarin's Little Helper
 Up to 400 Coins from Shantay Pass / 200 Coins from Pollnivneach in carpet ride costs, or none with Tasks Desert hard diary
+Complete the Easy Varrock Diary 	Complete all of the easy tasks in the Varrock Achievement Diary. 	See diary page
+Complete the Easy Ardougne Diary 	Complete all of the easy tasks in the Ardougne Achievement Diary. 	See diary page
 Obtain a Casket from Fishing 	Obtain a Casket from Fishing.
+Equip an Imcando Hammer 	Equip an Imcando hammer. 	Mining 14 Mining, Smithing 14 Smithing 	Requires completion of Below Ice Mountain
+Open an Ornate Lockbox 	Open an Ornate Lockbox from the Camdozaal Vault.
+Requires completion of Below Ice Mountain
 1 Easy Combat Achievement 	Complete an Easy Combat Achievement.
+5 Easy Combat Achievements 	Complete 5 Easy Combat Achievements.
+Open a Bronze Chest 	Open a Bronze Chest from Shades of Morton. 	Firemaking 5 Firemaking 	Requires completion of Shades of Mort'ton
+Pet the Museum Camp dog 	Pet the dog in the Museum Camp on Fossil Island.
+Requires completion of Bone Voyage
+Kourend and Kebos Medium Diary Tasks 	Complete all tasks in the medium tier of the Kourend and Kebos achievement diary. 	See here 	See here
+Open 10 Grubby Chests 	Open the grubby chest in the Forthos Dungeon 10 times. 	Thieving 57 Thieving
+Open 25 Grubby Chests 	Open the grubby chest in the Forthos Dungeon 25 times. 	Thieving 57 Thieving
+Open 50 Grubby Chests 	Open the grubby chest in the Forthos Dungeon 50 times. 	Thieving 57 Thieving
+Equip Xeric's Talisman 	Obtain and equip Xeric's talisman.
+Purchase Gricoller's Can 	Purchase Gricoller's can from the Tithe Farm minigame. 	Farming 34 Farming 	100% Hosidius favour
+Purchase a Seed Box 	Purchase a Seed box from the Tithe Farm minigame. 	Farming 34 Farming 	100% Hosidius favour
 Achieve Your First Level 30 	Reach level 30 in any skill.
 Achieve Your First Level 40 	Reach level 40 in any skill.
 Achieve Your First Level 50 	Reach level 50 in any skill.
 Reach Total Level 750 	Reach a Total Level of 750.
 Reach Total Level 1000 	Reach a Total Level of 1000.
 Reach Total Level 1250 	Reach a Total Level of 1250.
+Reach Base Level 5 	Reach level 5 in every skill.
+Reach Base Level 10 	Reach level 10 in every skill.
+Reach Base Level 20 	Reach level 20 in every skill.
+Reach Base Level 30 	Reach level 30 in every skill.
 Reach Combat Level 50 	Reach Combat Level 50.
 Reach Combat Level 75 	Reach Combat Level 75.
 Perform a Special Attack 	Perform any special attack.
 Each weapon with special attack has either a level or quest requirements.
 Equip a Dorgeshuun Crossbow 	Equip a Dorgeshuun Crossbow. 	Ranged 28 Ranged 	Quest points The Lost Tribe
+Complete the Medium Lumbridge & Draynor Diary 	Complete all of the medium tasks in the Lumbridge & Draynor Achievement Diary. 	See diary page
+Equip Some Mithril Gloves 	Equip a pair of Mithril Gloves.
+5 subquests of Recipe for Disaster
 Travel to Fossil Island 	Take the Museum Barge to Fossil Island.
 Use a Fairy Ring 	Use any Fairy Ring.
+Use a Digsite Pendant to Teleport to Fossil Island 	Use a Digsite Pendant to teleport to Fossil Island. 	Crafting 40 Crafting, Magic 49
+Equip a Granite Shield 	Equip a granite shield. 	Defence 50 , Strength 50 Strength
+Equip a Helm of Neitiznot 	Equip a helm of neitiznot.
+Equip a Leaf-Bladed Sword 	Equip a leaf-bladed sword. 	Attack 50 Attack, Slayer 55 Slayer
+Complete the Medium Fremennik Diary 	Complete all of the medium tasks in the Fremennik Achievement Diary. 	See diary page
+Deposit an Item Using Peer the Seer 	Deposit an item into your bank using Peer the Seer. 	See diary page 	Tasks Fremennik Easy Diary
+Use the Bank on Jatizso 	Use the bank on Jatizso.
+Use the Bank on Neitiznot 	Use the bank on Neitiznot.
+Use the Bank on Lunar Isle 	Use the bank on Lunar Isle.
+Complete the Medium Karamja Diary 	Complete all of the medium tasks in the Karamja Achievement Diary. 	See diary page
+Enter the Tai Bwo Wannai Hardwood Grove 	Enter the Hardwood Grove in Tai Bwo Wannai.
+100 Trading sticks
 Equip a Dragon Scimitar 	Equip a dragon scimitar. 	Attack 60 Attack 	Requires Quest points Monkey Madness I completed.
+Set Up a Dwarf Cannon 	Set up a dwarf multicannon.
+Requires Quest points Dwarf Cannon completed.
+Enter the Ranging Guild 	Enter the Ranging Guild. 	Ranged 40 Ranged
 Enter the Wizards' Guild 	Enter the Wizards' Guild in Yanille. 	Magic 66 Magic
+Use the Chivalry Prayer 	Use the Chivalry prayer. 	Prayer 60 Prayer, Defence 65 Defence 	Requires completion of the Camelot training room.
 Equip an Iban's Staff (u) 	Equip an iban's staff (u). 	Magic 50 Magic, Attack 50 Attack 	200,000 to upgrade the Iban's staff.
-Win a Game of Castle Wars 	Win a game of Castle Wars.
+Equip an Ogre Forester Chompy Hat 	Equip an ogre forester chompy hat. 	Ranged 30 Ranged, Fletching 5 Fletching 	300 chompy bird kills.
+Complete the Medium Kandarin Diary 	Complete all of the medium tasks in the Kandarin Achievement Diary. 	See diary page
+Complete the Medium Western Provinces Diary 	Complete all of the medium tasks in the Western Provinces Achievement Diary. 	See diary page
+Equip Some Granite Legs 	Equip some granite legs. 	Slayer 72 Slayer, Defence 50 Defence, Strength 50 Strength 	Must kill a Skeletal Wyvern
+Charge an Amulet of Glory in the Heroes' Guild 	Charge an amulet of glory at the Fountain of Heroes in the Heroes' Guild. 	See quest page 	Requires Quest points Heroes' Quest
+Complete the Medium Falador Diary 	Complete all of the medium tasks in the Falador Achievement Diary. 	See diary page
 Enter the Warriors' Guild 	Enter the Warriors' Guild. 	Combination of Attack and Strength that equals 130
+Complete a Game of Intermediate Pest Control 	Complete a game of intermediate Pest Control. 	Combat level 70 Combat level
+Open the Crystal Chest 	Open the crystal chest in Taverley.
+Requires a crystal key to open
+Complete the Medium Desert Diary 	Complete all of the medium tasks in the Desert Achievement Diary. 	See diary page
+Cast Bones to Peaches 	Cast the Bones to Peaches spell. 	Magic 60 Magic 	Participation in Mage Training Arena to purchase. Bones (animals' bones will not complete the task).
+Pray at the Elidinis Statuette 	Pray at the Elidinis Statuette in Nardah.
+Completion of Quest points Spirits of the Elid
 Enter Sophanem 	Enter Sophanem.
 Partial completion of Quest points Icthlarin's Little Helper
+Complete the Medium Morytania Diary 	Complete all of the medium tasks in the Morytania Achievement Diary. 	See diary page
+Complete a Medium Temple Trek 	Complete a medium Temple Trek
+Quest points In Aid of the Myreque
+Equip a Salve Amulet (e) 	Equip a Salve amulet (e).
+Tarn's Lair miniquest
+Obtain an Ecumenical Key 	Obtain an Ecumenical key as a drop in the Wilderness God Wars Dungeon. 	Strength 60 Strength or Agility 60 Agility
+Equip a Lava Battlestaff 	Equip a Lava battlestaff. 	Attack 30 Attack, Magic 30 Magic
+Equip a Bracelet of Ethereum 	Equip a Bracelet of ethereum.
+Complete the Medium Wilderness Diary 	Complete all of the medium tasks in the Wilderness Achievement Diary. 	See diary page
 Open a Looting Bag 	Open a looting bag.
 Enter the Deep Wilderness Dungeon 	Enter the Deep Wilderness Dungeon.
+Open One of Larran's Chests 	Open either Larran's small chest or Larran's big chest.
+Complete the Medium Varrock Diary 	Complete all of the medium tasks in the Varrock Achievement Diary. 	See diary page
+Complete the Medium Ardougne Diary 	Complete all of the medium tasks in the Ardougne Achievement Diary. 	See diary page
 1 Medium Combat Achievement 	Complete a Medium Combat Achievement.
+Open a Black Chest 	Open a Black Chest from Shades of Morton. 	Firemaking 35 Firemaking 	Requires completion of Shades of Mort'ton
+Purchase an Ectoplasmator 	Purchase an Ectoplasmator from Nomad on the Isle of Souls.
+Costs 250 Zeal Tokens from Soul Wars Reward Shop
+Purchase a Celestial ring 	Purchase a Celestial ring from Dusuri's Star Shop. 	Mining 10 Mining 	Costs 2,000 stardust from Dusuri's Star Shop
+Equip a Piece of the Golden Prospector set 	Equip either a Golden prospector helmet, a Golden prospector jacket, some Golden prospector legs or Golden prospector boots. 	Mining 30 Mining 	Costs 3,000 stardust from Dusuri's Star Shop and one piece of the regular prospector kit
 Max out 1 Fragment 	Achieve the maximum level on 1 Fragment.
 Activate 1 Set Effect 	Fully activate 1 Set Effect with your equipped Fragments.
+Teleport to Xeric's Honour 	Teleport to Xeric's Honour, using Xeric's talisman.
+Ancient tablet
+Equip Boots of Brimstone 	Obtain and equip a pair of Boots of brimstone. 	Slayer 84 Slayer, Defence 70 Defence, Magic 70 Magic, Ranged 70 Ranged
+Kourend and Kebos Hard Diary Tasks 	Complete all tasks in the hard tier of the Kourend and Kebos achievement diary. 	See here 	See here
+Open 100 Grubby Chests 	Open the grubby chest in the Forthos Dungeon 100 times. 	Thieving 57 Thieving
 Achieve Your First Level 60 	Reach level 60 in any skill.
 Achieve Your First Level 70 	Reach level 70 in any skill.
 Achieve Your First Level 80 	Reach level 80 in any skill.
+Reach Total Level 1500 	Reach a Total Level of 1500.
+Reach Total Level 1750 	Reach a Total Level of 1750.
+Reach Combat Level 100 	Reach Combat Level 100. 	Combat level 100 Combat level
+Reach Combat Level 110 	Reach Combat Level 110. 	Combat level 110 Combat level
+Complete the Hard Lumbridge & Draynor Diary 	Complete all of the hard tasks in the Lumbridge & Draynor Achievement Diary. 	See diary page
+Equip a Crystal Bow 	Equip a crystal bow. 	Ranged 70 Ranged, Agility 50 Agility
+Equip a Crystal Shield 	Equip a crystal shield. 	Defence 70 Defence, Agility 50 Agility
+Equip a Crystal Halberd 	Equip a crystal halberd. 	Attack 70 Attack, Agility 50 Agility, Strength 35 Strength 	Completion of the hard tier of Western Provinces Diary
 Find Every Memoriam Crystal 	Find every memoriam crystal in Prifddinas and add them to the Memoriam Device. 	Agility 75 Agility
+Open the Enhanced Crystal Chest 	Open the Elven Crystal Chest in Prifddinas. 	Smithing 80 Smithing, Crafting 80 Crafting 	Requirements only needed if making one yourself. Otherwise, Conwenna or Reese can sing it for you for 5 extra shards.
+Charter a Ship From Prifddinas to Port Tyras 	Take a Charter Ship from Prifddinas to Port Tyras.
+3,200 Coins
+Use the Special Attack of a Dragon Axe 	Use the special attack of a dragon axe. 	Attack 60 Attack
+Equip a Seercull 	Equip a seercull. 	Ranged 50 Ranged
+Equip a Leaf-Bladed Battleaxe 	Equip a leaf-bladed battleaxe in The Fremennik Provinces. 	Attack 65 Attack, Slayer 55 Slayer
+Equip a Full Skeletal Armour Set 	Equip a full set of skeletal armour. 	Magic 40 Magic, Defence 40 Defence
+Equip a Full Spined Armour Set 	Equip a full set of spined armour. 	Ranged 40 Ranged, Defence 40 Defence
+Equip a Full Rockshell Armour Set 	Equip a full set of rock-shell armour. 	Defence 40 Defence
+Complete the Hard Fremennik Diary 	Complete all of the hard tasks in the Fremennik Achievement Diary. 	See diary page
+Collect Miscellania Resources at Full Approval 	Collect some resources on Miscellania with an approval rating of 100%.
+Requires Quest points Throne of Miscellania completed.
+Complete the Hard Karamja Diary 	Complete all of the hard tasks in the Karamja Achievement Diary. 	See diary page
+Equip a Fighter Torso 	Equip a fighter torso. 	Defence 40 Defence
+Equip a Trident of the Seas 	Equip a trident of the seas. 	Magic 75 Magic 	Requires Slayer 87 Slayer, Magic 50 Magic, and a slayer task to kill the cave krakens/krakens.
+Use the Piety Prayer 	Use the Piety prayer. 	Prayer 70 Prayer, Defence 70 Defence 	Requires completion of the Camelot training room.
+Equip an Ogre Expert Chompy Hat 	Equip an ogre expert chompy hat. 	Ranged 30 Ranged, Fletching 5 Fletching 	1,000 chompy bird kills.
+Equip a Monkey Backpack 	Equip a monkey backpack.
+Complete the Hard Kandarin Diary 	Complete all of the hard tasks in the Kandarin Achievement Diary. 	See diary page
+Complete the Hard Western Provinces Diary 	Complete all of the hard tasks in the Western Provinces Achievement Diary. 	See diary page
+Equip a Dragon Defender 	Equip a dragon defender. 	Defence 60 Defence 	Requires access to the Warriors' Guild basement.
+Complete the Hard Falador Diary 	Complete all of the hard tasks in the Falador Achievement Diary. 	See diary page
+Equip a Full Void Knight Set 	Equip a full set of Void Knight equipment. 	Attack 42 ,Strength 42 ,Defence 42 ,Hitpoints 42 ,Ranged 42 ,Magic 42 ,Prayer 22
+Keep the Veteran Void Knight Above 150 Hitpoints 	Complete a game of veteran Pest Control without letting the Void Knight fall below 150 Hitpoints. 	Combat level 100 Combat level
+Complete a Game of Veteran Pest Control 	Complete a game of veteran Pest Control. 	Combat level 100 Combat level
+Complete the Hard Desert Diary 	Complete all of the hard tasks in the Desert Achievement Diary. 	See diary page
+Have Zahur Make 1,000 Unfinished Potions At Once 	Have Zahur make 1,000 Unfinished Potions in one go.
+Tasks Desert hard diary or Herblore cape, 200,000 Coins
+Equip a Granite Hammer or Granite Ring 	Equip either a granite hammer or a granite ring. 	Slayer 75 Slayer
+Complete the Hard Morytania Diary 	Complete all of the hard tasks in the Morytania Achievement Diary. 	See diary page
+Complete a Hard Temple Trek 	Complete a hard Temple Trek
+Quest points In Aid of the Myreque
+Pet Frank 	Pet Darkmeyer's goodest boy.
+Started Sins of the Father
+Equip a Dragon Pickaxe 	Equip a dragon pickaxe. 	Attack 60 Attack
+Equip an Enchanted Slayer Staff 	Equip an Enchanted Slayer Staff. 	Magic 75 Magic, Slayer 55 Slayer
+Complete the Hard Wilderness Diary 	Complete all of the hard tasks in the Wilderness Achievement Diary. 	See diary page
+Complete the Hard Varrock Diary 	Complete all of the hard tasks in the Varrock Achievement Diary. 	See diary page
+Complete the Hard Ardougne Diary 	Complete all of the hard tasks in the Ardougne Achievement Diary. 	See diary page
+1 Hard Combat Achievement 	Complete a Hard Combat Achievement.
+1 Elite Combat Achievement 	Complete an Elite Combat Achievement.
+1 Master Combat Achievement 	Complete a Master Combat Achievement.
+Equip a Piece of Zealot's Robes 	Equip either a Zealot's helm, a Zealot's robe top, a Zealot's robe bottom or a Zealot's boots. 	Firemaking 80 Firemaking 	Requires completion of Shades of Mort'ton
+Equip a Full Set of Zealot's Robes 	Equip a Zealot's helm, a Zealot's robe top, a Zealot's robe bottom and a Zealot's boots. 	Firemaking 80 Firemaking 	Requires completion of Shades of Mort'ton
+Open a Gold Chest 	Open a Gold Chest from Shades of Morton. 	Firemaking 80 Firemaking 	Requires completion of Shades of Mort'ton
+Equip a Full set of Golden Prospector 	Equip a Golden prospector helmet, a Golden prospector jacket, some Golden prospector legs and Golden prospector boots. 	Mining 30 Mining 	Costs 12,000 stardust from Dusuri's Star Shop and the full regular prospector kit
+Equip a Full set of Swampbark armour 	Equip a Swampbark helm, a Swampbark body, some Swampbark legs, some Swampbark gauntlets and Swampbark boots. 	Magic 50 Magic, Defence 50 Defence 	Requires completion of Shades of Mort'ton
+Max out 10 Fragments 	Achieve the maximum level on 10 Fragments.
 Activate 2 Set Effects 	Fully activate 2 Set Effects simultaneously with your equipped Fragments.
+Equip a Piece of Torva Armour 	Equip either a Torva full helm, a Torva platebody or some Torva platelegs. 	Defence 80 Defence 	Access to Nex
+Equip an Ancient godsword 	Obtain and equip an Ancient godsword. 	Attack 75 Attack 	Access to Nex
+Equip a Zaryte Crossbow 	Obtain and equip a Zaryte Crossbow. 	Ranged 80 Ranged 	Access to Nex
+Equip some Zaryte Vambraces 	Obtain and equip some Zaryte Vambraces. 	Ranged 80 Ranged, Defence 45 Defence 	Access to Nex
+Equip Ferocious Gloves 	Obtain and equip a pair of Ferocious gloves. 	Attack 80 Attack, Defence 80 Defence, Slayer 95 Slayer
+Equip a Dragon Hunter Lance 	Obtain and equip a Dragon hunter lance. 	Attack 70 Attack, Slayer 95 Slayer
+Kourend and Kebos Elite Diary Tasks 	Complete all tasks in the elite tier of the Kourend and Kebos achievement diary. 	See here 	See here
+Open 250 Grubby Chests 	Open the grubby chest in the Forthos Dungeon 250 times. 	Thieving 57 Thieving
+Open 500 Grubby Chests 	Open the grubby chest in the Forthos Dungeon 500 times. 	Thieving 57 Thieving
+Equip a Fish Sack 	Equip a Fish sack, purchased from Alry on Molch Island. 	Hunter 35 Hunter, Fishing 43 Fishing
 Achieve Your First Level 90 	Reach level 90 in any skill.
+Achieve Your First Level 95 	Reach level 95 in any skill.
+Reach Combat Level 120 	Reach Combat Level 120. 	Combat level 120 Combat level
+Reach Combat Level 126 	Reach Combat Level 126. 	Combat level 126 Combat level
+Add a Jar to a Display Case 	Add a Jar to a Display Case in your Player Owned House Achievement Gallery. 	Construction 80 Construction
+Equip a Dragon Crossbow 	Equip a Dragon Crossbow. 	Fletching 78 Fletching
+Equip a Dragonfire Shield 	Equip a Dragonfire Shield. 	Smithing 90 Smithing, Defence 75 Defence
+Equip an Ancient Wyvern Shield 	Equip an Ancient Wyvern Shield. 	Smithing 66 Smithing, Defence 75 Defence, Magic 70 Magic
+Equip an Abyssal Bludgeon 	Equip an Abyssal Bludgeon. 	Slayer 85 Slayer, Attack 70 Attack, Strength 70 Strength
+Equip an Abyssal Dagger 	Equip an Abyssal Dagger. 	Slayer 85 Slayer, Attack 70 Attack
+Complete the Elite Lumbridge & Draynor Diary 	Complete all of the elite tasks in the Lumbridge & Draynor Achievement Diary. 	See diary page
+Equip a Full Crystal Armour Set 	Equip a full set of Crystal armour. 	Smithing 74 Smithing, Crafting 74 Crafting
+Equip a Serpentine Helm 	Equip a Serpentine helm. 	Defence 75 Defence, Crafting 52 Crafting
+Craft a Toxic Blowpipe 	Craft a Toxic blowpipe. 	Fletching 53 Fletching
+Craft a Toxic Trident 	Craft a Toxic trident. 	Crafting 59 Crafting, Slayer 87 Slayer
+Equip a Piece of the Dragonstone Armour Set 	Equip any piece of the Dragonstone armour set. 	Defence 40 Defence,Crafting 80 Crafting,Smithing 80 Smithing
+Equip a Dragonfire Ward 	Equip a dragonfire ward. 	Ranged 75 Ranged, Defence 70 Defence
+Equip a Dragonbone Necklace 	Equip a dragonbone necklace. 	Prayer 80 Prayer
+Equip a Neitiznot Faceguard 	Equip a neitiznot faceguard. 	Defence 70 Defence 	Requires Slayer 60 Slayer to kill the basilisk knights to obtain the basilisk jaw.
+Complete the Elite Fremennik Diary 	Complete all of the elite tasks in the Fremennik Achievement Diary. 	See diary page
+Complete the Elite Karamja Diary 	Complete all of the elite tasks in the Karamja Achievement Diary. 	See diary page
+Equip a Thammaron's Sceptre 	Equip a Thammaron's Sceptre. 	Magic 60 Magic
+Equip a Heavy Ballista 	Equip a heavy ballista. 	Ranged 75 Ranged
+Equip an Abyssal Tentacle 	Equip an abyssal tentacle. 	Attack 75 Attack 	Requires Slayer 87 Slayer and Magic 50 Magic to get a whip and kraken tentacle to create this.
+Equip an Occult Necklace 	Equip an occult necklace. 	Magic 70 Magic 	Requires Slayer 93 Slayer to kill smoke devils.
+Equip a Dragon Full Helm 	Equip a dragon full helm. 	Defence 60 Defence
+Equip a Dragon Archer Chompy Hat 	Equip a dragon archer chompy hat. 	Ranged 30 Ranged, Fletching 5 Fletching 	2,250 chompy bird kills.
+Complete the Elite Kandarin Diary 	Complete all of the elite tasks in the Kandarin Achievement Diary. 	See diary page
+Complete the Elite Western Provinces Diary 	Complete all of the elite tasks in the Western Provinces Achievement Diary. 	See diary page
+Equip an Infernal Tool 	Equip either an infernal axe, an infernal pickaxe or an infernal harpoon. 	Attack 60 Attack
+Equip a Staff of the Dead 	Equip a staff of the dead. 	Attack 75 Attack, Magic 75 Magic
+Equip a Zamorakian Spear 	Equip a zamorakian spear. 	Attack 70 Attack
+Equip a Piece of the Armadyl Armour Set 	Equip any piece of the Armadyl armour set. 	Ranged 70 Ranged, Defence 70 Defence
+Equip a Saradomin Sword 	Equip a saradomin sword. 	Attack 70 Attack
+Equip a Piece of the Bandos Armour Set 	Equip any piece of the Bandos armour set. 	Defence 65 Defence
+Equip an Armadyl Crossbow 	Equip an armadyl crossbow. 	Ranged 70 Ranged
+Equip Some Primordial, Pegasian or Eternal Boots 	Equip either some primordial boots, some pegasian boots or some eternal boots. 	Defence 75 Defence 	Requires Magic 75 Magic, Ranged 75 Ranged, or Strength 75 Strength depending on the boots to wear and requires Runecraft 60 Runecraft and Magic 60 Magic to create.
+Equip a Godsword 	Equip any godsword. 	Attack 75 Attack 	Smithing 80 Smithing to make the godsword blade
+Complete the Elite Falador Diary 	Complete all of the elite tasks in the Falador Achievement Diary. 	See diary page
+Equip a Dragon Chainbody in the Kharidian Desert 	Equip a Dragon chainbody in the Kharidian Desert. 	Defence 60 Defence
+Complete the Elite Desert Diary 	Complete all of the elite tasks in the Desert Achievement Diary. 	See diary page
+Equip Some Guardian Boots 	Equip a pair of Guardian Boots. 	Defence 75 Defence
+Equip Every Barrows Armour Set 	Equip all six sets of Barrows armour. 	Defence 70 Defence, Magic 70 Magic, Ranged 70 Ranged, Attack 70 Attack, Strength 70 Strength
+Equip an Inquisitor's Mace 	Equip an Inquisitor's mace. 	Attack 75 Attack
+Equip a Piece of the Inquisitor's Set 	Equip any piece of the Inquisitor's armour set. 	Defence 30 Defence, Strength 70 Strength
+Equip a Nightmare Staff 	Equip a normal Nightmare staff. 	Magic 65 Magic, Hitpoints 50 Hitpoints
+Create an Amulet of Blood Fury 	Create an amulet of blood fury. 	Crafting 90 Crafting, Magic 87 Magic
+Equip an Avernic Defender 	Equip an Avernic defender. 	Defence 70 Defence, Attack 70 Attack
+Equip a Scythe of Vitur 	Equip a Scythe of Vitur. 	Attack 75 Attack, Strength 75 Strength
+Complete the Elite Morytania Diary 	Complete all of the elite tasks in the Morytania Achievement Diary. 	See diary page
+Equip a Blessed Spirit Shield 	Equip a Blessed Spirit Shield. 	Defence 70 Defence, Prayer 60 Prayer
+Equip a Malediction Ward 	Equip a Malediction Ward. 	Defence 60 Defence
+Equip an Odium Ward 	Equip an Odium Ward. 	Defence 60 Defence
+Complete the Elite Wilderness Diary 	Complete all of the elite tasks in the Wilderness Achievement Diary. 	See diary page
+Complete the Elite Varrock Diary 	Complete all of the elite tasks in the Varrock Achievement Diary. 	See diary page
+Complete the Elite Ardougne Diary 	Complete all of the elite tasks in the Ardougne Achievement Diary. 	See diary page
+Equip a Dragon Hunter Crossbow 	Equip a Dragon Hunter Crossbow. 	Ranged 65 Ranged
+Equip a Twisted Buckler 	Equip a Twisted Buckler. 	Ranged 75 Ranged, Defence 75 Defence
+Equip a Dinh's Bulwark 	Equip a Dinh's Bulwardk. 	Attack 75 Attack, Defence 75 Defence
+Equip any Ancestral piece 	Equip either an Ancestral Hat, an Ancestral robe top or an Ancestral robe bottom. 	Magic 75 Magic, Defence 65 Defence
+Equip a pair of Dragon Claws 	Equip a pair of Dragon Claws. 	Attack 60 Attack
+Equip a Bonecrusher necklace 	Equip a Bonecrusher necklace. 	Prayer 70 Prayer
+1 Grandmaster Combat Achievement 	Complete a Grandmaster Combat Achievement.
+Attach a Sanguine ornament kit to the Scythe of Vitur 	Attach a Sanguine ornament kit to the Scythe of Vitur.
+Requires completion of Priest in Peril
+Attach a Holy ornament kit to the Scythe of Vitur 	Attach a Holy ornament kit to the Scythe of Vitur.
+Requires completion of Priest in Peril
+Metamorph Lil' Zik 	Metamorph Lil' Zik by using Sanguine dust on the pet.
+Requires completion of Priest in Peril
+Equip a Full set of Bloodbark armour 	Equip a Bloodbark helm, a Bloodbark body, some Bloodbark legs, some Bloodbark gauntlets and Bloodbark boots. 	Magic 60 Magic, Defence 60 Defence 	Requires completion of Shades of Mort'ton
+Activate 3 Set Effects 	Fully activate 3 Set Effects simultaneously with your equipped Fragments.
+Equip a Full Set of Torva Armour 	Equip a Torva full helm, a Torva platebody and some Torva platelegs. 	Defence 80 Defence 	Access to Nex
+Equip a Twisted Bow 	Obtain and equip a Twisted bow. 	Ranged 75 Ranged
+Equip an Elder Maul 	Obtain and equip an Elder maul. 	Attack 75 Attack, Strength 75 Strength
+Equip a Kodai Wand 	Obtain and equip a Kodai wand. 	Magic 75 Magic
+Metamorphise the Olmlet 	Use metamorphic dust on an Olmlet pet, to metamorphise it.
+Metamorphic dust, Olmlet
+Equip a Golden Tench 	Equip a Golden tench, caught by aerial fishing on Molch Island. 	Hunter 35 Hunter, Fishing 43 Fishing
+Equip a Dragon Platebody or Dragon Kiteshield 	Equip either a Dragon platebody or a Dragon kiteshield. 	Smithing 75 Smithing, Defence 60 Defence 	Dragon Slayer II
+Equip a Crystal Crown 	Equip a Crystal crown.
+250,000,000 Coins
+Enhance a Trident of the Seas 	Enhance a trident of the seas or Trident of the swamp.
+Requires Slayer 87 Slayer
+Equip an Expert Dragon Archer Chompy Hat 	Equip an expert dragon archer chompy hat.
+4,000 chompy bird kills.
+Equip Every Godsword 	Equip all four godswords. 	Attack 75 Attack
+Equip a Full Armadyl Armour Set 	Equip a full set of Armadyl armour. 	Ranged 70 Ranged, Defence 70 Defence
+Equip a Full Bandos Armour Set 	Equip a full set of Bandos armour. 	Defence 65 Defence
+Equip Some Primordial, Pegasian and Eternal Boots 	Equip some primordial boots, some pegasian boots and some eternal boots. 	Defence 75 Defence, Strength 75 Strength, Magic 75 Magic, Ranged 75 Ranged 	Cerberus requires Slayer 91 Slayer. Requires Runecraft 60 Runecraft and Magic 60 Magic to creat
+Equip a Full Inquisitor's Set 	Equip a full set of Inquisitor's armour. 	Defence 30 Defence, Strength 70 Strength
+Equip a Nightmare Staff With an Orb 	Equip either an Eldritch Nightmare Staff, a Harmonised Nightmare Staff or a Volatile Nightmare Staff. 	Magic 75 Magic, Hitpoints 50
+Equip a Spectral or Arcane Spirit Shield 	Equip either a Spectral Spirit Shield or an Arcane Spirit Shield. 	Defence 75 Defence, Prayer 70 Prayer, Magic 65 Magic
+Equip an Elysian Spirit Shield 	Equip an Elysian Spirit Shield. 	Defence 75 Defence, Prayer 75 Prayer
+Equip an Amulet of Eternal Glory 	Equip an amulet of eternal glory.
+Completion of Quest points Heroes' Quest
+Equip a full set of Ancestral 	Equip an Ancestral Hat, an Ancestral robe top and an Ancestral robe bottom. 	Magic 75 Magic, Defence 65 Defence
+Max out all Fragments 	Achieve the maximum level on all fragments. 
